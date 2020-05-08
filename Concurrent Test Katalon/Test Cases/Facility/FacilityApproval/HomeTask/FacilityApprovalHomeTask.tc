@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FacilityApprovalHomeTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8674935d-0309-49b4-8148-69c8945cd2e7</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 001'</defaultValue>
+      <description></description>
+      <id>3f91b7d3-165d-412b-bef2-a40245c58e28</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FacilityBA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>1a67fe1e-8586-47fd-8ace-bc983b53cf7c</testSuiteGuid>
+   <testCaseLink>
+      <guid>16d59fc1-e98c-40dd-b2fd-4ee9e4205c23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Login</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>da4d1003-b8e4-43fe-84f9-a3473f68d105</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/FacilityRegister/FacilityRegister</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>da4d1003-b8e4-43fe-84f9-a3473f68d105</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>96475920-cc02-499a-b81f-3ec279b30e1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>409b7e90-7b18-4dfd-9d2e-773142d98801</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>126a136e-d530-4291-bba5-b56b7c29d10d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Facility/FacilityRegister/MainTestCase/FRChecker1</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>9f5adde7-5ab0-44c4-bd3c-1b1c21f4edc7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/FacilityRegister/FacilityRegister</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9f5adde7-5ab0-44c4-bd3c-1b1c21f4edc7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>2f7bf312-a94d-4333-96c9-adac075a27fc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9f5adde7-5ab0-44c4-bd3c-1b1c21f4edc7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>7a1e1f2f-4f44-48b1-9f25-b5d0ba8b5477</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

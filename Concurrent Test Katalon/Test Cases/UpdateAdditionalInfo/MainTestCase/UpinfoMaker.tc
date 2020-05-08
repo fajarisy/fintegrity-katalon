@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpinfoMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf58cbf4-32e6-486e-b9b2-f4592709eba1</testCaseGuid>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>698d2fd1-51d1-4f6e-aadd-e35375f0ebd9</id>
+      <masked>false</masked>
+      <name>BA</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>a7fa42af-56dd-4a07-8d28-1b6c65eac7e1</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated004'</defaultValue>
+      <description></description>
+      <id>fc7c057d-fe5d-407c-b48d-7dc53e6f1f06</id>
+      <masked>false</masked>
+      <name>ChassisNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated004'</defaultValue>
+      <description></description>
+      <id>ac0a3435-e261-47e2-a260-42c24cb9d43a</id>
+      <masked>false</masked>
+      <name>EngineNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated Test Katalon'</defaultValue>
+      <description></description>
+      <id>d9c21ca6-5887-45ca-acc9-2e905b548f3c</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'123123098'</defaultValue>
+      <description></description>
+      <id>da072957-42c9-4cd1-be78-772b05357339</id>
+      <masked>false</masked>
+      <name>VirtualAcct</name>
+   </variable>
+</TestCaseEntity>

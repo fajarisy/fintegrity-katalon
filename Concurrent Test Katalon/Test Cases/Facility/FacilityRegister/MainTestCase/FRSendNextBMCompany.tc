@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRSendNextBMCompany</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d6c0c6b-4f3a-47a8-80b4-ce9d6be4cb35</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57596b6d-8f0a-4f2f-8e6d-f56eda4f1d78</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>211aac05-82fa-471e-bd15-059729e33492</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+</TestCaseEntity>

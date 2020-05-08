@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBooking_Checker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95abf2f1-c850-42ee-8d7c-697b2f411fe4</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Katalon 10'</defaultValue>
+      <description></description>
+      <id>84771e6f-ad56-4a66-a44b-35e3d7fe3d31</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

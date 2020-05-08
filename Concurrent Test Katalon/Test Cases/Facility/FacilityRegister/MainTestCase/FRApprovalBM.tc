@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRApprovalBM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa033406-cff3-4390-9d91-e0a251d25b40</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>10eaee63-0971-4e16-a490-8a0aebd68e95</id>
+      <masked>false</masked>
+      <name>isOpenBrowser</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>e2525492-b4f7-4371-8dc1-07d71ec2499f</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'CHAIRUL'</defaultValue>
+      <description></description>
+      <id>453d6f39-fa36-4871-b3d2-fdd5e5c8dd6d</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+</TestCaseEntity>

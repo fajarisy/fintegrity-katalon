@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f41bd492-0a7b-486c-9dd4-9171bb5b1133</testCaseGuid>
+   <variable>
+      <defaultValue>'MIA'</defaultValue>
+      <description></description>
+      <id>47edae35-428b-4d59-92ea-9178bb448e03</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13a36023-a609-4a47-8ce7-790218fc132d</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

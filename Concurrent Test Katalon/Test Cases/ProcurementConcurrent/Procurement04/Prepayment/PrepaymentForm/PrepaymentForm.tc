@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PrepaymentForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>461611be-4764-41d0-86ba-d87911852d59</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa4f8e05-add0-4f70-b9b7-760dd3556667</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

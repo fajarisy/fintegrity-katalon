@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDB_CMO_Personal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d8492cf-291a-401d-96cf-a749381c828e</testCaseGuid>
+   <variable>
+      <defaultValue>'MAT SOLAR'</defaultValue>
+      <description></description>
+      <id>e3e59c99-a2d7-4bc0-b92b-1c42a34dbfd2</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'302900012201345'</defaultValue>
+      <description></description>
+      <id>3d214c76-cb6d-4520-9b1f-ea8a00238276</id>
+      <masked>false</masked>
+      <name>IdCard</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>bb75689c-f28c-497b-87d5-0b89457aba5f</id>
+      <masked>false</masked>
+      <name>CMO</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>966899dc-9d75-4986-9e64-473d8322b6df</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

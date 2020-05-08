@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AddressBank StatementGu</name>
+   <tag></tag>
+   <elementGuidId>68d960f1-c97e-4924-8185-8d4b4b882f72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;frmMain:cbSelectView&quot;)[count(. | //select[@id = 'frmMain:cbSelectView' and @name = 'frmMain:cbSelectView']) = count(//select[@id = 'frmMain:cbSelectView' and @name = 'frmMain:cbSelectView'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:cbSelectView&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:cbSelectView</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:cbSelectView</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>A4J.AJAX.Submit('frmMain',event,{'control':this,'ignoreDupResponses':true,'oncomplete':function(request,event,data){javascript:arrangeSize();},'similarityGroupingId':'frmMain:j_id382','parameters':{'frmMain:j_id382':'frmMain:j_id382','ajaxSingle':'frmMain:cbSelectView'} ,'eventsQueue':'mainCifQueue','containerId':'frmMain:regCIFDetail'} )</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddressBank StatementGuarantorOccupationOther DocumentPayerRegistration InfoSurvey And Interview</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:cbSelectView&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

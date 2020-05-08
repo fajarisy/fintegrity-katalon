@@ -1,0 +1,4 @@
+[0916/171453.000:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0916/171504.207:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0918/100623.275:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1125/134040.108:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)

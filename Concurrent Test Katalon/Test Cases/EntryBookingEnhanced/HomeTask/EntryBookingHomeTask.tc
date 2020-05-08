@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBookingHomeTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fe1cae6-a6fc-45ff-ba47-898ba8a4b1f9</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 002'</defaultValue>
+      <description></description>
+      <id>128c91a6-2d4a-4416-b8d6-e4d5c8a18023</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

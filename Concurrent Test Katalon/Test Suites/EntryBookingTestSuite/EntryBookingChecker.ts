@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>EntryBookingChecker</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>47791aa8-04da-4726-95f0-66e781f39a9c</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb051ab7-13b6-4e97-8bf3-07f040a0f7bd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Login</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>87dbc9c1-0005-4261-a558-0db1af4cf07b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/CDB/CDB/CIFPersonal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>87dbc9c1-0005-4261-a558-0db1af4cf07b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>96475920-cc02-499a-b81f-3ec279b30e1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>409b7e90-7b18-4dfd-9d2e-773142d98801</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>27e3d7ba-2448-447f-9457-c5bd769dbc8e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EntryBooking/EntryBooking_Checker</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a79bbb0c-cf4d-491b-9215-df631e5793be</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/EntryBooking/EB_001</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>a79bbb0c-cf4d-491b-9215-df631e5793be</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>84771e6f-ad56-4a66-a44b-35e3d7fe3d31</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3bd16bf4-4888-40fc-b105-a00933000f9a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Logout</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7a298dc3-bfc4-4d4b-bd48-7e82fcd6b7fd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

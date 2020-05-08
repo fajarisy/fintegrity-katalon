@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinanceMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaa36ee1-6474-4761-b38e-7ffb7ff567fb</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>12c02128-f321-4290-abe0-c915ec38ad27</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DWI'</defaultValue>
+      <description></description>
+      <id>5f9c6697-6a6f-42e8-80db-cb147a1f5a79</id>
+      <masked>false</masked>
+      <name>FINMaker</name>
+   </variable>
+</TestCaseEntity>

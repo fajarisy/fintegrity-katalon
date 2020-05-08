@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDisburseFINChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20ffc41f-75e1-469e-9235-2ecf3200bd7f</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>88b11e26-d5eb-4401-986f-688dee90d811</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

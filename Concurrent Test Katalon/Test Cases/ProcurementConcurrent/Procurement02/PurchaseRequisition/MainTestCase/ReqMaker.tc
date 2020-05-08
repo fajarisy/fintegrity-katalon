@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7a8a28f-a1cf-4dd7-a172-240270c5c0d9</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>a297bd9c-25e3-4bba-9b6b-7a146b68ba00</id>
+      <masked>false</masked>
+      <name>ReqMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e8d3ec0-046f-4eca-8423-3a805792e337</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CashTransIframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>febeceee-1012-40e5-b2fa-3d62111f53cf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e617e21-e699-4546-b660-edeb163efc98</id>
+      <masked>false</masked>
+      <name>InstallmentTo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd44d17d-1ebe-42fc-8fd1-4b39884624d3</id>
+      <masked>false</masked>
+      <name>Installment</name>
+   </variable>
+</TestCaseEntity>

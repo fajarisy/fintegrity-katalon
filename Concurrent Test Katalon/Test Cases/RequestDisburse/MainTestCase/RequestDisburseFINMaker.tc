@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDisburseFINMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8de3dcbc-a262-4723-8672-2e46ad2f536e</testCaseGuid>
+   <variable>
+      <defaultValue>'CONCURRENT_001'</defaultValue>
+      <description></description>
+      <id>382b7b37-b41b-48ca-a2e6-add886b8eb22</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

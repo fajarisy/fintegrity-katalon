@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinDirectorPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec9f3be-6e58-4050-a42c-5e399ae73acb</testCaseGuid>
+   <variable>
+      <defaultValue>'HIROSE'</defaultValue>
+      <description></description>
+      <id>6317f0a7-83ae-4fd9-b7ae-d55582be8c3e</id>
+      <masked>false</masked>
+      <name>FinDirector</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d91a81dc-2acd-4ba9-9bf0-c93089df10d2</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

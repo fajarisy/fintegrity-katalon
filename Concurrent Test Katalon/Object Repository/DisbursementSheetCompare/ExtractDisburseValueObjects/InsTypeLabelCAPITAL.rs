@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InsTypeLabelCAPITAL</name>
+   <tag></tag>
+   <elementGuidId>4fa14e13-6f70-4320-b9e9-e43957a4a356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:insuranceTypeWrapper&quot;]/div/table/tbody/tr/td[2]/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:insuranceTypeWrapper&quot;]/div/table/tbody/tr/td[2]/label</value>
+   </webElementXpaths>
+</WebElementEntity>

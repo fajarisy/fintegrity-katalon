@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBooking_Maker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5fa508f-f012-483e-9361-b3c57dbef55e</testCaseGuid>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>acedf88a-86ee-4772-bea4-68aa8690da59</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Katalon 10'</defaultValue>
+      <description></description>
+      <id>e9c1d62b-c0b4-4714-9d2c-0ed8c76ef62a</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'0872371973'</defaultValue>
+      <description></description>
+      <id>abf7b723-c0bd-4d9d-8d94-5658fea5990e</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta'</defaultValue>
+      <description></description>
+      <id>f889e0a7-6859-45c5-bb36-ac739569a097</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>'HONDA BANDUNG CENTER'</defaultValue>
+      <description></description>
+      <id>0d792bf9-ff2c-406d-832b-8e56434c8b33</id>
+      <masked>false</masked>
+      <name>SupplierName</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>b6ecb951-1cf9-4b7d-9980-502fc074a983</id>
+      <masked>false</masked>
+      <name>isOpenBrowser</name>
+   </variable>
+   <variable>
+      <defaultValue>'CONSL'</defaultValue>
+      <description></description>
+      <id>2374fa2d-9808-41f6-b4d3-efe7eebaa0a9</id>
+      <masked>false</masked>
+      <name>FacilityType</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>37a36b7e-13d2-4aaf-a0b0-42e10a1cbf6f</id>
+      <masked>false</masked>
+      <name>UserMaker</name>
+   </variable>
+</TestCaseEntity>

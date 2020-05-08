@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MainMenuPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81465ec4-b0a7-493a-858d-4e593501295a</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>e02fca78-bd23-42bd-b554-e92c7ea3b82a</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce1bbfbb-8db7-4c46-b398-7a1750b76e0c</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

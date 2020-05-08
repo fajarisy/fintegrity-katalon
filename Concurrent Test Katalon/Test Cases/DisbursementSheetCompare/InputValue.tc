@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InputValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>520d977f-f3df-41fa-ac5e-d9665fc17a05</testCaseGuid>
+   <variable>
+      <defaultValue>'FID'</defaultValue>
+      <description></description>
+      <id>043151c8-25d6-4a2a-93e0-356c33c36277</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'149893/CV20/000653\r\n'</defaultValue>
+      <description></description>
+      <id>dab9789c-9bb2-4869-b053-23a46e768367</id>
+      <masked>false</masked>
+      <name>IdFacility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0960b06-b640-4082-8603-197bf2d5c79f</id>
+      <masked>false</masked>
+      <name>CreditType</name>
+   </variable>
+</TestCaseEntity>

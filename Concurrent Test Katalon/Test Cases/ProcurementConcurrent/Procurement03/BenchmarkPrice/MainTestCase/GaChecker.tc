@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00d8eded-3f6f-450b-9334-236d8dd52964</testCaseGuid>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>3e04a13a-7610-4bd6-88f3-cd66e72fab56</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>'DummyItem1'</defaultValue>
+      <description></description>
+      <id>972aed71-0a52-4e5c-ad76-b5f903cf2988</id>
+      <masked>false</masked>
+      <name>ItemName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1456357b-4023-49e4-b11b-644f3573f9f2</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

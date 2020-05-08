@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment 9_Maker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8845b43-2145-419e-afbb-745078a91033</testCaseGuid>
+   <variable>
+      <defaultValue>'101070;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>38d7b31f-935a-43f2-b880-48cc4b258c0b</id>
+      <masked>false</masked>
+      <name>ReceivingBank</name>
+   </variable>
+   <variable>
+      <defaultValue>'Upload VA9'</defaultValue>
+      <description></description>
+      <id>4948e96e-547b-4164-8f05-efffaa926749</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

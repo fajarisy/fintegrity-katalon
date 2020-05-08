@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_FreqGracePeriod</name>
+   <tag></tag>
+   <elementGuidId>8c75edf5-8d42-4821-a492-ee590ca250f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:pnlFreqOfGrace&quot;]/select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name = 'frmMain:j_id1316' and (text() = 'ANNUALLYMONTHLYQUARTERLYSEMI-ANNUALLY' or . = 'ANNUALLYMONTHLYQUARTERLYSEMI-ANNUALLY')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:j_id1316</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANNUALLYMONTHLYQUARTERLYSEMI-ANNUALLY</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:pnlFreqOfGrace&quot;)/select[1]</value>
+   </webElementProperties>
+</WebElementEntity>

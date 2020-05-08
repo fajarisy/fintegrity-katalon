@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81eb3945-21c2-4364-ac54-685da12e0c38</testCaseGuid>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>1afd5cc9-5b8b-4b02-b8c7-b4fbfec3a924</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+</TestCaseEntity>

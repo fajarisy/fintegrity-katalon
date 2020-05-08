@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ComboBoxButton</name>
+   <tag></tag>
+   <elementGuidId>4b716d36-c38d-4804-a1ed-69d2fa7089a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div/div[1]/span/span/fieldset/legend/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/form/div[2]/div/div/div[1]/span/span/fieldset/legend/select</value>
+   </webElementXpaths>
+</WebElementEntity>

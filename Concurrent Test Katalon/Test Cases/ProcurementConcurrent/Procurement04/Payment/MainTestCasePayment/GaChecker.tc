@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2debc5c-1a37-4bf0-9865-8f861af96a80</testCaseGuid>
+   <variable>
+      <defaultValue>'MARSAULINA'</defaultValue>
+      <description></description>
+      <id>7a66a9a6-a451-4581-8179-76e0ee095405</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fdc0472-0f8c-41db-a400-63bc15158a1c</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

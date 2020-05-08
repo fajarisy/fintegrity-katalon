@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>VA143</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>e6b8631b-7f99-4677-8844-86cec7ffdc39</testSuiteGuid>
+   <testCaseLink>
+      <guid>8441e6ed-cef8-4fcf-84d4-1163e0d272aa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/VA Payment/VA Payment 14/VAPayment14_All3</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/VA Payment/UploadVA143</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Maker</value>
+         <variableId>013cb2bf-0c5a-4fe4-97f4-883eb3124997</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Approver</value>
+         <variableId>19edf640-3aac-4719-96e6-45dc6c34c5fb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Bank</value>
+         <variableId>2288547c-1848-4424-b7bb-bfe27f3131d0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>b04aae7d-930c-4e25-a68f-44c4a9d1b808</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Upload Date</value>
+         <variableId>06018612-70ad-47e0-b0be-6e3fe2f1d2a7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fa1b9fcc-bb1c-401b-a5d6-2a097e459ad5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Total Transaction</value>
+         <variableId>71d1c6d1-b2f5-4686-8535-a47277ba2eab</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CustomerMaker</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>24e0f171-15ce-41d7-aaba-f1b0a7d66d8b</testSuiteGuid>
+   <testCaseLink>
+      <guid>16696136-802f-4c38-bb64-979f99d7f79d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8b8bbef0-8711-4e06-b0f6-01a77dba7967</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CDB/CDB/CIFPersonal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8b8bbef0-8711-4e06-b0f6-01a77dba7967</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CMO</value>
+         <variableId>96475920-cc02-499a-b81f-3ec279b30e1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>409b7e90-7b18-4dfd-9d2e-773142d98801</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d0f526b1-9d5c-4d4d-8ae2-4196a3dff2f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CDB/MainTestCase/CDB_CMO_Personal</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9c1a1669-d725-4604-95fe-3245fff5bd4d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CDB/CDB/CIFPersonal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9c1a1669-d725-4604-95fe-3245fff5bd4d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>e3e59c99-a2d7-4bc0-b92b-1c42a34dbfd2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9c1a1669-d725-4604-95fe-3245fff5bd4d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>IdCard</value>
+         <variableId>3d214c76-cb6d-4520-9b1f-ea8a00238276</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bb75689c-f28c-497b-87d5-0b89457aba5f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>966899dc-9d75-4986-9e64-473d8322b6df</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

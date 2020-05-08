@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskPO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c5897eb-9f1a-477c-bb4e-d193c8cfa623</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9b910ea-b278-458a-90b7-b6a4d03d8c63</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

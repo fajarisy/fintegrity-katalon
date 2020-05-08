@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvoiceHomeTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ec64cbd-a0ef-47ad-9e7d-c6ea2d1afca7</testCaseGuid>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>92c18d98-420b-40a7-82bd-456e55fce959</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+</TestCaseEntity>

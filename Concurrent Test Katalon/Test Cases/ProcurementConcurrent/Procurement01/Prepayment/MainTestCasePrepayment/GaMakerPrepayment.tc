@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaMakerPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62031261-cdd8-439d-a558-048ff51b5b0a</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>9d0b692b-8dc3-4768-b551-b6c896096086</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e9862e4-9d1c-43f1-8251-716961dc1f8f</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

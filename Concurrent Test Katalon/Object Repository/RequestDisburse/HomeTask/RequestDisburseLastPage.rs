@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RequestDisburseLastPage</name>
+   <tag></tag>
+   <elementGuidId>92f19828-9625-4291-9101-cf1f55bd5c74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:dtRequestDisbursement:j_id5652_table&quot;]/tbody/tr/td[8]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = '»»']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>&lt;td class=&quot; rich-datascr-button&quot; onclick=&quot;Event.fire(this, 'rich:datascroller:onscroll', {'page': 'last'});&quot;>»»&lt;/td></value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>»»</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:dtRequestDisbursement:j_id5652_table&quot;]/tbody/tr/td[8]</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpinfoChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12938a4f-5ff1-4ccb-81d6-9d8a2fb2cc85</testCaseGuid>
+   <variable>
+      <defaultValue>'CHAIRUL'</defaultValue>
+      <description></description>
+      <id>393d2b75-cb6a-40fe-8030-d81d96ade9a3</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>4343587a-429e-47b7-88bd-7c809c911625</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login5</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>76e9adf2-3e18-440e-9e4f-c5bded287ec3</testSuiteGuid>
+   <testCaseLink>
+      <guid>b0d24816-e951-404b-864f-7a90a7096ef6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>01c02acd-3130-418b-8523-6e767d679a85</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginLogout/Data_LoginLogout5</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>01c02acd-3130-418b-8523-6e767d679a85</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USERNAME</value>
+         <variableId>96475920-cc02-499a-b81f-3ec279b30e1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>false</value>
+         <variableId>409b7e90-7b18-4dfd-9d2e-773142d98801</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

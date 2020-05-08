@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpinfoHomeTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26f1bd45-7569-4c2c-b0c7-52e8503b0a31</testCaseGuid>
+   <variable>
+      <defaultValue>'Nama'</defaultValue>
+      <description></description>
+      <id>fd794d79-c304-4049-9881-5addad6f232a</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

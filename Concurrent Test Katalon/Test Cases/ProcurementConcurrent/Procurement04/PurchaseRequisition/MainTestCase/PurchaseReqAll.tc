@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PurchaseReqAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3ae9e9e-fba4-4193-9669-dc2b0cf304c2</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>378b36cb-0b3f-4f21-a16c-5b36172f4a2c</id>
+      <masked>false</masked>
+      <name>ReqMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>e846bf64-9864-445d-b1b5-dc7e9a957c5f</id>
+      <masked>false</masked>
+      <name>ReqChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>'Auto'</defaultValue>
+      <description></description>
+      <id>bfbac227-5a0d-45e8-a43c-35b9fa9eadf4</id>
+      <masked>false</masked>
+      <name>ItemDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>170f42ad-c614-4363-ab3d-6ea13e1292c3</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

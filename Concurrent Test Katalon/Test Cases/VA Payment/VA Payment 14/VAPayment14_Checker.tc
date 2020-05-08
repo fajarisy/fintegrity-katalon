@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment14_Checker</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action
+WebUI.delay(GlobalVariable.wait_medium_time)
+Wait for minimize panel task entry booking
+WebUI.delay(GlobalVariable.wait_short_time)</comment>
+   <testCaseGuid>16348086-d09a-4a1e-9355-1d993e47bc11</testCaseGuid>
+   <variable>
+      <defaultValue>'11/10/2019'</defaultValue>
+      <description></description>
+      <id>909a0a03-f2fe-4fe2-8aac-ba2dab72b9d8</id>
+      <masked>false</masked>
+      <name>UploadDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'5,809,000.00'</defaultValue>
+      <description></description>
+      <id>c3c45ddd-0e95-45f4-b9cb-a6bb7bd18906</id>
+      <masked>false</masked>
+      <name>TotalTransaction</name>
+   </variable>
+</TestCaseEntity>

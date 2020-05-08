@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDB_BM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>131db024-57a9-40b7-a416-f99cef533664</testCaseGuid>
+   <variable>
+      <defaultValue>'CHAIRUL'</defaultValue>
+      <description></description>
+      <id>75af1b54-0f58-4df4-890c-cfe43762d79f</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+   <variable>
+      <defaultValue>'MAT SOLAR'</defaultValue>
+      <description></description>
+      <id>b676bd35-52f7-46d3-8174-2279979965ba</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>d5ccf996-394f-4ac0-a9d3-1cfd570ca162</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

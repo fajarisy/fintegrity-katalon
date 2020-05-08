@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PurchaseReqAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>309443e0-de81-4097-89c8-08934d941699</testCaseGuid>
+   <variable>
+      <defaultValue>'MIA'</defaultValue>
+      <description></description>
+      <id>af6c542a-c96e-4db9-90f8-580efb9586df</id>
+      <masked>false</masked>
+      <name>ReqMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>'MARSAULINA'</defaultValue>
+      <description></description>
+      <id>9d95f946-32dc-4c24-9905-54e2cd2bed6a</id>
+      <masked>false</masked>
+      <name>ReqChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>'Auto'</defaultValue>
+      <description></description>
+      <id>48a5b8fb-b6ee-41bf-b629-aad54cc848f0</id>
+      <masked>false</masked>
+      <name>ItemDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae0c962b-09cb-4d94-b91c-64d1d12497d9</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

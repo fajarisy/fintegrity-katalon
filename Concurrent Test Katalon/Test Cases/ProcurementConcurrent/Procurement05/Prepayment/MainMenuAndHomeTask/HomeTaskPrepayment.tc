@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4be7b87-fb13-4086-81a1-0b514c2ecd6d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d38606f0-46c7-4166-819c-0654d807ed58</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>36fefac7-f4f0-4f6d-9401-c584622b858a</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+</TestCaseEntity>

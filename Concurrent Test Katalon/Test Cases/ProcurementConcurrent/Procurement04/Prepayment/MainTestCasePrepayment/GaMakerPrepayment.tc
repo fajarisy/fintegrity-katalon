@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaMakerPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb189fb6-b9d9-4aea-a31d-b457a4dcc9fd</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>8fb1a14e-68f9-4e0f-9c0c-61580349cdd1</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+</TestCaseEntity>

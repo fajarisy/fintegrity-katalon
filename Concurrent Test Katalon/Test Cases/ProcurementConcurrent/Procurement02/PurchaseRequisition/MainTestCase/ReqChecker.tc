@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>369353de-6054-4d26-bd68-0d2deac1e505</testCaseGuid>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>b5860ced-7c57-4bd2-8382-b2a59b6d0e0f</id>
+      <masked>false</masked>
+      <name>ReqChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>'Auto Generated'</defaultValue>
+      <description></description>
+      <id>36744b5a-1c34-4c36-a2c7-c0f9f97c45f2</id>
+      <masked>false</masked>
+      <name>ItemDescription</name>
+   </variable>
+</TestCaseEntity>

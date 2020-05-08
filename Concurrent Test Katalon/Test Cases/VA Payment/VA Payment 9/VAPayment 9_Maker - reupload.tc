@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment 9_Maker - reupload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de914f69-5245-48da-a534-bb4ec91d1832</testCaseGuid>
+   <variable>
+      <defaultValue>'101070;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>7659a437-83a1-4ec6-855c-11e09aae15ea</id>
+      <masked>false</masked>
+      <name>ReceivingBank</name>
+   </variable>
+   <variable>
+      <defaultValue>'Upload VA9'</defaultValue>
+      <description></description>
+      <id>d92a7406-5647-4130-bcf2-3edb2b7c0f97</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

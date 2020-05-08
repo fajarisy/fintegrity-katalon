@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRLegal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dae83935-0a7c-4bcc-916a-91c5317dbcdc</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>969e3ac5-4241-4bda-88ec-6f691ae09fc6</id>
+      <masked>false</masked>
+      <name>LegalMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0f2242b-fde0-4b65-b70d-5e63b834c69a</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

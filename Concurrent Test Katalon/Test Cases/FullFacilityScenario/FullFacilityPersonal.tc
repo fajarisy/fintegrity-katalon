@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FullFacilityPersonal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f489693-65d6-42aa-956d-14b9855e86df</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1fd3e9c-9510-4541-917f-c431eb768e08</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

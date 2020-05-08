@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4978b6cd-af7a-44f7-83b6-350b09d20507</testCaseGuid>
+   <variable>
+      <defaultValue>'DWI'</defaultValue>
+      <description></description>
+      <id>e10cd9c5-bc0a-4d37-87ac-da365f8bbdbb</id>
+      <masked>false</masked>
+      <name>FinChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae1a14f7-2ee4-4ab7-a2d1-cf1cd5785b9f</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment 14_Maker - reupload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cba6fdb5-d5c1-46ee-8328-8a08c023e436</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae696706-f8a6-428d-b56a-fc75919486ea</id>
+      <masked>false</masked>
+      <name>directoryVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'101601;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>315d61df-4892-4ecf-a347-c535d26378d5</id>
+      <masked>false</masked>
+      <name>ReceivingBank</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Katalon\r\n'</defaultValue>
+      <description></description>
+      <id>6aa29e39-43a1-4203-8707-9d86e74fb201</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>cc038b2d-9a94-47fd-b78b-2db4ef65a217</id>
+      <masked>false</masked>
+      <name>isReupload</name>
+   </variable>
+   <variable>
+      <defaultValue>'CASE_4.6'</defaultValue>
+      <description></description>
+      <id>60539602-b99f-45e2-81b9-deda81befa86</id>
+      <masked>false</masked>
+      <name>Laporan</name>
+   </variable>
+   <variable>
+      <defaultValue>'TEST_PAYMENT_POINT_CASE_4.6'</defaultValue>
+      <description></description>
+      <id>79ad8878-5300-4276-8970-cabffde35c86</id>
+      <masked>false</masked>
+      <name>Retensi1</name>
+   </variable>
+</TestCaseEntity>

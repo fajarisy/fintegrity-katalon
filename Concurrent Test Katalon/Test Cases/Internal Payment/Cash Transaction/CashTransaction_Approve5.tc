@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CashTransaction_Approve5</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action
+WebUI.delay(GlobalVariable.wait_medium_time)
+Wait for minimize panel task entry booking
+WebUI.delay(GlobalVariable.wait_short_time)</comment>
+   <testCaseGuid>a4b283ac-9c77-45f3-81e4-60f8c8ef9085</testCaseGuid>
+   <variable>
+      <defaultValue>'CTRAN-201909-0052'</defaultValue>
+      <description></description>
+      <id>88e9a72e-bf6b-4aca-95c6-1fa9f927307d</id>
+      <masked>false</masked>
+      <name>CashTransNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2bf5c820-6f17-4c90-a23a-945f743a81d4</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52d5cefa-0802-44b0-972b-ed71014cec7d</id>
+      <masked>false</masked>
+      <name>variable_3</name>
+   </variable>
+</TestCaseEntity>

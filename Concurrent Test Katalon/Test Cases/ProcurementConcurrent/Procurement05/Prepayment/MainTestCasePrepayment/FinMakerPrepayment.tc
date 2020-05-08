@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinMakerPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d73cc44-29d8-4e6d-a4ac-4fb5c58bef0f</testCaseGuid>
+   <variable>
+      <defaultValue>'YUNILIA'</defaultValue>
+      <description></description>
+      <id>ea6d8189-8a20-424e-bc2f-88901c368139</id>
+      <masked>false</masked>
+      <name>FinChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bcdc1d4a-65c2-4e88-9731-27f17878a151</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

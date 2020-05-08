@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_IDType</name>
+   <tag></tag>
+   <elementGuidId>a408faec-bf39-46b6-9887-379b31740820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:pIdType&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'frmMain:marital' and @name = 'frmMain:marital' and (text() = '	-
+	DIVORCED
+	MARRIED
+	SINGLE
+	WIDOWED
+' or . = '	-
+	DIVORCED
+	MARRIED
+	SINGLE
+	WIDOWED
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:marital</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:marital</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>A4J.AJAX.Submit('frmMain',event,{'control':this,'ignoreDupResponses':true,'similarityGroupingId':'frmMain:j_id125','parameters':{'ajaxSingle':'frmMain:marital','frmMain:j_id125':'frmMain:j_id125'} ,'eventsQueue':'mainCifQueue'} )</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	-
+	DIVORCED
+	MARRIED
+	SINGLE
+	WIDOWED
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:marital&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

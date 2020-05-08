@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDisburseDIR</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f914332-ab5d-4744-9325-41b138cfd99c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8ab4ab0-2140-4fa0-9e86-3dc6eac33e22</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

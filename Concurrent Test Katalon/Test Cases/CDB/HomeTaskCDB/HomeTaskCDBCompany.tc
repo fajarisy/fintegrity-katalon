@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskCDBCompany</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89957a22-a63d-4f9f-9f23-c4b6a2af881b</testCaseGuid>
+   <variable>
+      <defaultValue>'CLOP'</defaultValue>
+      <description></description>
+      <id>0f107cfb-583a-4f87-a80a-30162d77ce8a</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>493519a2-a0e2-49c1-9ef5-d3ac24ee5d32</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

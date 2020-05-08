@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Dealer_Name</name>
+   <tag></tag>
+   <elementGuidId>22462b41-a960-4e94-8461-34e609c84a4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='frmMain:dtIntroducer:1:name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:dtIntroducer:1:name</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:dtIntroducer:1:name</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>callOverlay();A4J.AJAX.Submit('frmMain',event,{'control':this,'ignoreDupResponses':true,'oncomplete':function(request,event,data){endOverlay()},'similarityGroupingId':'frmMain:dtIntroducer:1:j_id1280','parameters':{'ajaxSingle':'frmMain:dtIntroducer:1:name','frmMain:dtIntroducer:1:j_id1280':'frmMain:dtIntroducer:1:j_id1280','key':1} ,'eventsQueue':'changeRefundLists'} )</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABDUL MALIKABIDIN MUSHAADE RONIALBERT PANIJAYA KOSASIHAMAR FADLILAH IBNU ANSORANDI KURNIAWANANGELINA PRANATAANGGA BANI ADAMANISSA SUSAN HALIMARIP ABDILLAHARIS SUNANDARBASILLIUSBENEDIK TUSMAN SADAWABERRY FERNANDOBRYAN RAMADHANY PUTRABUDI INTAN LEGOWOBUDI SANTOSOCHAIRUDINDANATYA YOHAMRIDAVIDDEDDYDEDI ISWANDIDEDY PRASETYODESTA TAMTAMADEWI SETIAWATIDIANA REGILLIADIDI MADRONIDONNY SUKMANA HIDAYATDONY IRMANTODUWI ARYANTODWI HERLAMBANGEDY KRISTIAWANEFIKAEKA PRASTIYANINGSIHEKA PUTRA JULIANZIRSYAHFAJAR SABHANIFENNY SUSANTOFERRY NUGROHO SUBAGIOFIKRI SAEFULLAHGEOVANNY JAN S TAMBAYONGHENDRY YUWONOIIS SORAYA TRIWARDANIIQBAL TAWAKKALIRFAN SAPUTRAIRWANIRWANTO, S.HI.JEFRI HASUDUNGAN NAINGGOLANJEMI SALFESTER SANUJHONY ANWARJIMMY HUTOMO PANGKAWIRAJOHANES HALIMJOIN PURBALILYLIU KERRY LIUSMARIO GEMMA RMARIO VALENTINO MANURUNGMUHAMAD RUDINICKO B KOMALADININO RIO ESPINDOU SNINO RIO ESPINDOU SNUR CHOLISHRAHMAT ILAHIREZA RIZKI ARJA'IRIO FATURAHMANRIO FREDDYRIS ANDRIYANIROESTOMORUTH ANGELINE DEWINTIORYAN RAMADHANSANTA HENDRASANTISELVI HALIMSUHENDARSUWANDISYLWIA HELMITIKNO SUCIPTOTUBAGUS YOGI EFENDIUMAR SAIDVINOD NONTAHWILLY SUPANDIWINA WIRAWATIYOHAN HERLAMBANG</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:dtIntroducer:1:name&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <value>//select[@id='frmMain:dtIntroducer:1:name']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//td[@id='frmMain:dtIntroducer:1:column3']/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISBURSE'])[2]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove Introducer'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JL. H TERIN NO. 46 CINERE - DEPOK'])[2]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[5]/preceding::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//tr[2]/td[3]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

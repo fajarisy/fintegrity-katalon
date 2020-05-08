@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectHomeTaskPurchaseRequisition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ac31a5d-5f87-414f-8e37-58ddda11d936</testCaseGuid>
+   <variable>
+      <defaultValue>'Auto Generated'</defaultValue>
+      <description></description>
+      <id>b8bc58cd-796f-4fd2-91e0-42088c6fc7fe</id>
+      <masked>false</masked>
+      <name>ItemDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>2cae26a0-1f28-4747-a6e3-ae08dd9a1490</id>
+      <masked>false</masked>
+      <name>ReqChecker</name>
+   </variable>
+</TestCaseEntity>

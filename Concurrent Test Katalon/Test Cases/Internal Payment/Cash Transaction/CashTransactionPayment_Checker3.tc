@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CashTransactionPayment_Checker3</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action
+WebUI.delay(GlobalVariable.wait_medium_time)
+Wait for minimize panel task entry booking
+WebUI.delay(GlobalVariable.wait_short_time)</comment>
+   <testCaseGuid>49795750-b0a9-4291-ae52-cf94f75844c7</testCaseGuid>
+   <variable>
+      <defaultValue>'CTRAN-201909-0054'</defaultValue>
+      <description></description>
+      <id>c6f026c9-06c1-492b-b530-9bed43bb3d16</id>
+      <masked>false</masked>
+      <name>CashTransNo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CashTransactionPayment_Maker5</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action
+WebUI.delay(GlobalVariable.wait_medium_time)</comment>
+   <testCaseGuid>764024be-117f-4b8d-bdfc-75aea3eb9fed</testCaseGuid>
+   <variable>
+      <defaultValue>'CTRAN-201909-0057'</defaultValue>
+      <description></description>
+      <id>d79dd4fb-48ab-4027-b93b-9d133f3dc152</id>
+      <masked>false</masked>
+      <name>CashTransNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sep 20, 2019'</defaultValue>
+      <description></description>
+      <id>e8644835-edfc-42f3-8bc3-110936e8aa91</id>
+      <masked>false</masked>
+      <name>PaymentDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'3400000'</defaultValue>
+      <description></description>
+      <id>c7fc2610-61eb-4b46-bc27-cca51d9bee70</id>
+      <masked>false</masked>
+      <name>ActualPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>'101060;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>b4c937db-6f9c-4a14-abbd-bfdebb8d5fce</id>
+      <masked>false</masked>
+      <name>BankAccount</name>
+   </variable>
+</TestCaseEntity>

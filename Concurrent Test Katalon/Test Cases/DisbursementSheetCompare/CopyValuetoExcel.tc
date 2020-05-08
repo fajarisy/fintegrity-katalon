@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CopyValuetoExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa3cc401-d2bb-4088-b4af-fd7887e85ffa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41bde84d-37df-4d69-987e-9f476d5b65f3</id>
+      <masked>false</masked>
+      <name>Nilai</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed91e295-10d4-44dd-a5b1-e985b24d4330</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

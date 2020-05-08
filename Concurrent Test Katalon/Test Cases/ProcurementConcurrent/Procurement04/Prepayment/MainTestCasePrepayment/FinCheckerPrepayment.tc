@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinCheckerPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cb43b15-342d-4e13-8393-94c05514c7c5</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>52e07b2d-a2aa-49e0-b6fb-1a70fcde6d62</id>
+      <masked>false</masked>
+      <name>FinMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ffe4f4b-b33a-4cb3-b043-df06be60975e</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

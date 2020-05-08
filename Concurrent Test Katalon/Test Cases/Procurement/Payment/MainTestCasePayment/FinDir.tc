@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinDir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee63f622-8567-4862-8673-e7a790ebb87f</testCaseGuid>
+   <variable>
+      <defaultValue>'HIROSE'</defaultValue>
+      <description></description>
+      <id>094d0efb-ccaa-4f6e-a1dd-160702849cbd</id>
+      <masked>false</masked>
+      <name>FinMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0d4b7ce-8f05-422a-a3db-98252bc73a2c</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

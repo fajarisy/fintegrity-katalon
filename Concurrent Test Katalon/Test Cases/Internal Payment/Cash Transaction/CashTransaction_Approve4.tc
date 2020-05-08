@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CashTransaction_Approve4</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action</comment>
+   <testCaseGuid>c7469a72-2eb8-47af-a1ed-0bb9d91b1c02</testCaseGuid>
+   <variable>
+      <defaultValue>'CTRAN-201909-0052'</defaultValue>
+      <description></description>
+      <id>0a7765d8-4530-4f9b-b1a2-7a008c5b612f</id>
+      <masked>false</masked>
+      <name>CashTransNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d10616a5-c133-4e10-b939-4c80263320a6</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f380e9f1-a46c-409d-9b40-0cd85a9e9134</id>
+      <masked>false</masked>
+      <name>variable_3</name>
+   </variable>
+</TestCaseEntity>

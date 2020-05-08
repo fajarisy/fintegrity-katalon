@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BenchmarkPriceAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5acf5ab-ef00-4381-998f-17b6182696b8</testCaseGuid>
+   <variable>
+      <defaultValue>'MIA'</defaultValue>
+      <description></description>
+      <id>0dd585db-0d73-4414-9302-f6954611d6ba</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>'MARSAULINA'</defaultValue>
+      <description></description>
+      <id>3ff30224-a944-4a29-bce8-4be4852ea738</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>952bac05-45f8-4e6e-ac0e-2773bbd22ee0</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43a2fd56-f9cf-4934-9149-226d80bfea70</id>
+      <masked>false</masked>
+      <name>ItemName</name>
+   </variable>
+</TestCaseEntity>

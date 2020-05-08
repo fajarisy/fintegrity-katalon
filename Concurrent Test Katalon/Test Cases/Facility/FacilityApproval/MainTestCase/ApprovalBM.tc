@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ApprovalBM</name>
+   <tag>Facility Approval</tag>
+   <comment></comment>
+   <testCaseGuid>26675e2d-c52f-4705-ba22-6b239d74dbe7</testCaseGuid>
+   <variable>
+      <defaultValue>'AHMAD SUHARDI 5'</defaultValue>
+      <description></description>
+      <id>cb028353-cfe1-4032-90e6-f15f8400bd70</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'CHAIRUL'</defaultValue>
+      <description></description>
+      <id>dfbeab8d-7b6a-45ef-9477-1d33c9db9be5</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+</TestCaseEntity>

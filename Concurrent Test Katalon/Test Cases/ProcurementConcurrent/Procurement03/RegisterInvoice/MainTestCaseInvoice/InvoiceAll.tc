@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvoiceAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e6c2ff8-dfaa-4ebf-9cdb-3ffb031eb084</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>add8d35b-fef7-4a20-8a4e-f2aab8c87988</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>fdf3bc9c-1fc4-4a98-8c06-168c9a7d9478</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5153f59e-24a3-4624-ba56-039a69787792</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

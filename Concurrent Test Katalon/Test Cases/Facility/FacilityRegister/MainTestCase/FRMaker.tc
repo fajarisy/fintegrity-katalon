@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRMaker</name>
+   <tag>FACILITY REGISTER</tag>
+   <comment></comment>
+   <testCaseGuid>06880e68-f600-4ee5-81ae-d2fc9e52108a</testCaseGuid>
+   <variable>
+      <defaultValue>'NewContract_CP01'</defaultValue>
+      <description></description>
+      <id>b21a8edc-07a9-4b9c-ac70-18aea7decfd3</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>5539ec8d-2d5e-4d3f-8330-d781be723592</id>
+      <masked>false</masked>
+      <name>CMO</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>47c225ba-86f9-4f9d-b5e4-f3cd00eabc67</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

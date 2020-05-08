@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDB_BA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b8cce2f-a9e7-4594-b9e7-1e4648fdbf59</testCaseGuid>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>689322b5-db86-45b2-9045-2c0f6a23b194</id>
+      <masked>false</masked>
+      <name>BA</name>
+   </variable>
+   <variable>
+      <defaultValue>'MAT SOLAR'</defaultValue>
+      <description></description>
+      <id>3498973b-9b1e-4f51-90c6-bc3dea89853d</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>49c0be9b-06dd-4d4b-acda-d33e5a748ae7</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

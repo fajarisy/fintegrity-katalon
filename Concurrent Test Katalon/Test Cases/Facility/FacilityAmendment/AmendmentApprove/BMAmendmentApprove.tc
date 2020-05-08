@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BMAmendmentApprove</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f8bfb4d-b1b8-48f1-9c7f-f8a134a7f65d</testCaseGuid>
+   <variable>
+      <defaultValue>'MR. AHMAD SUHARDI 5'</defaultValue>
+      <description></description>
+      <id>556decfb-ca18-42ba-bff2-66bbbf1c892e</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

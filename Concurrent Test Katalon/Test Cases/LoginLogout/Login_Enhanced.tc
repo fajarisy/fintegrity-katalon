@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Enhanced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0554a15-4acb-406c-aa8f-47cd269adb34</testCaseGuid>
+   <variable>
+      <defaultValue>'IRNA'</defaultValue>
+      <description></description>
+      <id>2a243d3a-e844-43b2-9a25-6f500eeba195</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>

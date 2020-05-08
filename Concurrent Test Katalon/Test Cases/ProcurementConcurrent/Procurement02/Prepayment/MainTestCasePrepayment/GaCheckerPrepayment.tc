@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaCheckerPrepayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32f43785-7cab-4bb6-9909-5f261909d5c5</testCaseGuid>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>4301a422-b71d-437b-a6fb-1245391cd27f</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b0aa3d6-e13e-4d03-bddb-3dce43443531</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

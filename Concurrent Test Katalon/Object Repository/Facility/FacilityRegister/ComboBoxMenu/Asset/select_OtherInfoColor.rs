@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_OtherInfoColor</name>
+   <tag></tag>
+   <elementGuidId>04bce640-9cc6-4c72-98fb-dc7d860ef25e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:ColorSelect&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'frmMain:ColorSelect' and @name = 'frmMain:ColorSelect' and (text() = '	 
+	BLACK
+	BLUE
+	BROWN
+	CHAMPAGNE
+	GOLD
+	GREEN
+	GREY
+	NOT BLACK
+	ORANGE
+	OTHER COLOR
+	PURPLE
+	RED
+	SILVER
+	WHITE
+	YELLOW
+' or . = '	 
+	BLACK
+	BLUE
+	BROWN
+	CHAMPAGNE
+	GOLD
+	GREEN
+	GREY
+	NOT BLACK
+	ORANGE
+	OTHER COLOR
+	PURPLE
+	RED
+	SILVER
+	WHITE
+	YELLOW
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:ColorSelect</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:ColorSelect</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	 
+	BLACK
+	BLUE
+	BROWN
+	CHAMPAGNE
+	GOLD
+	GREEN
+	GREY
+	NOT BLACK
+	ORANGE
+	OTHER COLOR
+	PURPLE
+	RED
+	SILVER
+	WHITE
+	YELLOW
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:ColorSelect&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

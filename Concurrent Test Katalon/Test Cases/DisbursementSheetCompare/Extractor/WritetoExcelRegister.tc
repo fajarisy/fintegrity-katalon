@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WritetoExcelRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3483ab1b-38c1-46ee-84ae-ff39908939db</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8acf4b2e-d8f7-4df7-b01d-047c54d2c6d4</id>
+      <masked>false</masked>
+      <name>BPKB_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5460245c-67f0-4ba9-b2cd-fdac8791d0da</id>
+      <masked>false</masked>
+      <name>ChassisNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8100f374-d4f2-4c05-a286-abf51eb4ef59</id>
+      <masked>false</masked>
+      <name>EngineNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>647de3e4-eb6f-4c44-a779-47a6da64dafa</id>
+      <masked>false</masked>
+      <name>DescriptionofGoods</name>
+   </variable>
+</TestCaseEntity>

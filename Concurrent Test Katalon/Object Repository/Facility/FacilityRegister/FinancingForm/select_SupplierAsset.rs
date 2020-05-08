@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SupplierAsset</name>
+   <tag></tag>
+   <elementGuidId>549d1da3-358c-4067-8dc4-5c6cffb4d236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;frmMain:supAssetList_supplierAsset&quot;)[count(. | //option[@id = 'frmMain:supAssetList_supplierAsset' and @name = 'frmMain:supAssetList_supplierAsset']) = count(//option[@id = 'frmMain:supAssetList_supplierAsset' and @name = 'frmMain:supAssetList_supplierAsset'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:supAssetList_supplierAsset&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xhtml</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:supAssetList_supplierAsset</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:supAssetList_supplierAsset</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:showPickProgress('frmMain:supAssetFilter_supplierAsset', 'frmMain:imgProgressSupAsset_supplierAsset');A4J.AJAX.Submit('frmMain',event,{'control':this,'oncomplete':function(request,event,data){javascript:hideEl('frmMain:imgProgressSupAsset_supplierAsset')},'similarityGroupingId':'frmMain:j_id96','parameters':{'ajaxSingle':'frmMain:supAssetList_supplierAsset','frmMain:j_id96':'frmMain:j_id96'} ,'eventsQueue':'pickSupplierAsset','containerId':'frmMain:regAcct_supplierAsset'} )</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HONDA JAKARTA CENTER</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:supAssetList_supplierAsset&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

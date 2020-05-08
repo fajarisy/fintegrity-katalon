@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TaskPanelCdbPersonal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b4179ae-e459-495a-a667-9f361a771e87</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 010'</defaultValue>
+      <description></description>
+      <id>d9c476cd-ea9d-4071-a28c-105477e61ecb</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>5e756b5a-9c9c-4528-9d16-4444508aa6ed</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

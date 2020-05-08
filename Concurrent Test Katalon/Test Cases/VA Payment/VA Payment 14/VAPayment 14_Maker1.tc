@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment 14_Maker1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d351db4-e14d-4c12-9d8c-beec8b5d30fc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a2a7223-d255-4d94-8dcc-c0780e702b4d</id>
+      <masked>false</masked>
+      <name>directoryVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'101601;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>d71171e8-8535-40a1-8522-9aeb89626308</id>
+      <masked>false</masked>
+      <name>ReceivingBank</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Katalon\r\n'</defaultValue>
+      <description></description>
+      <id>851e225d-b782-46bc-a78d-d878714c59f4</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

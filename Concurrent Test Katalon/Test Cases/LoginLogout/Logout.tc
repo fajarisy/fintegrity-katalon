@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a00d28e-deb6-4b6f-9187-b13d54cd56d9</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>7a298dc3-bfc4-4d4b-bd48-7e82fcd6b7fd</id>
+      <masked>false</masked>
+      <name>isCloseBrowser</name>
+   </variable>
+</TestCaseEntity>

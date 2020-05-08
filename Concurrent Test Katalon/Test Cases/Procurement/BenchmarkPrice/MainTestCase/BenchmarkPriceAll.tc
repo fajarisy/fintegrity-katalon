@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BenchmarkPriceAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26eeacab-0c21-4210-b7e7-7e5f91f29e13</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>a3292221-a3b8-4d08-b112-3cf8cf90dc8d</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>'KAMEI'</defaultValue>
+      <description></description>
+      <id>7e9fc6a9-fd99-43e2-9204-869378da03e6</id>
+      <masked>false</masked>
+      <name>GaChecker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4ee49ce-6ae2-43b9-a235-cba269d40245</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

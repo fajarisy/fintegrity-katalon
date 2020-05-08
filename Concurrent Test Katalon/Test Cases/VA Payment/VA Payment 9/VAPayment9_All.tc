@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment9_All</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bd1fecc-e325-466c-bc02-bdc5f0877258</testCaseGuid>
+   <variable>
+      <defaultValue>'DWI'</defaultValue>
+      <description></description>
+      <id>0688d471-3e13-4d77-92ca-d1c73872df4a</id>
+      <masked>false</masked>
+      <name>Maker</name>
+   </variable>
+   <variable>
+      <defaultValue>'YUNILIA'</defaultValue>
+      <description></description>
+      <id>f174b67a-c97b-48b9-ab1f-ff920bbe60f7</id>
+      <masked>false</masked>
+      <name>Approver</name>
+   </variable>
+   <variable>
+      <defaultValue>'101070;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>64942ecd-6d86-443d-b578-06d5ce496297</id>
+      <masked>false</masked>
+      <name>ReceivingBank</name>
+   </variable>
+   <variable>
+      <defaultValue>'Upload VA9'</defaultValue>
+      <description></description>
+      <id>d1c61c98-071b-4d06-b00c-2806c0b7e237</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'11/10/2019'</defaultValue>
+      <description></description>
+      <id>05cc4ab5-1aed-40c0-a048-84a522fe52d8</id>
+      <masked>false</masked>
+      <name>UploadDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'8,058,000.00'</defaultValue>
+      <description></description>
+      <id>b8299fa6-cb71-4375-8b5f-06040813ebd3</id>
+      <masked>false</masked>
+      <name>TotalTransaction</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskDisbursementChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e707b11a-2d2c-49cf-ae81-cdad766e26e8</testCaseGuid>
+   <variable>
+      <defaultValue>'CustomerName'</defaultValue>
+      <description></description>
+      <id>c31e84ae-f6c7-4e68-87af-ef43b7c18a67</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletePersonal_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46e618bc-58cd-4690-8b5a-95e82d501d1a</testCaseGuid>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>6f0577a9-91fe-4293-af48-fb5397ef5685</id>
+      <masked>false</masked>
+      <name>CMO</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>9e6e02ee-1e51-4ca1-9484-f7b02034154e</id>
+      <masked>false</masked>
+      <name>BA</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automated Test 022'</defaultValue>
+      <description></description>
+      <id>5bb5767d-53ff-47ec-8bff-e3afe72b8048</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'302900012201337'</defaultValue>
+      <description></description>
+      <id>4d11ae76-b62d-49b0-b7f4-c860e95cb858</id>
+      <masked>false</masked>
+      <name>IdCard</name>
+   </variable>
+   <variable>
+      <defaultValue>'CHAIRUL'</defaultValue>
+      <description></description>
+      <id>64d406eb-d6e4-47f0-be26-384545d9f50f</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>3db7ffc2-2e5d-484b-b230-448842d00156</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

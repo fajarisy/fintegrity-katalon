@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBooking_All</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b56ba464-a0d4-4541-9d2e-861d3df0772a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>870402a7-e370-4e52-af5d-6b6f81dac255</id>
+      <masked>false</masked>
+      <name>CMO</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>2ce02583-6be3-4676-8c9c-05a3cbe8d752</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>f95a5075-36c0-4cce-8ec9-75c03d363416</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>8d00519d-8fce-4707-aba9-d089c369f44a</id>
+      <masked>false</masked>
+      <name>FacilityType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>2d05c9b8-3983-4367-b97e-f9dc3e1fa0f1</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>4cf0af1c-330e-4977-bb5a-f558c92f31fb</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>281c18c5-1710-46e9-8c92-6d95b53ee345</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('EntryBooking/EB_001').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>6ff16b2b-54b2-4055-abe7-6064af13673c</id>
+      <masked>false</masked>
+      <name>SupplierName</name>
+   </variable>
+</TestCaseEntity>

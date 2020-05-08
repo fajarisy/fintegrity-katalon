@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GaMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac1c087c-c011-4498-a975-ed31b615fad6</testCaseGuid>
+   <variable>
+      <defaultValue>'Dummyitem1'</defaultValue>
+      <description></description>
+      <id>00ddaac6-d4cf-47ba-bfbb-eb19bc158976</id>
+      <masked>false</masked>
+      <name>ItemName</name>
+   </variable>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>c84b44a8-3652-4238-b9af-5b67b40fcc64</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>674d1eb1-9e46-4338-87f6-af46cdfbcca3</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

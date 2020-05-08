@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PEP</name>
+   <tag></tag>
+   <elementGuidId>732745a7-ee19-496e-9ec1-47100c18d390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:compayInfo&quot;]/fieldset[2]/table/tbody/tr[11]/td[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:compayInfo&quot;]/fieldset[2]/table/tbody/tr[11]/td[2]/input</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PurchaseOrderAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1ebf817-cf2f-434a-89d7-e5da8ff88446</testCaseGuid>
+   <variable>
+      <defaultValue>'MIA'</defaultValue>
+      <description></description>
+      <id>5777a98a-822e-415e-a581-5eef5356c097</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c06079f-9c98-4ce2-b613-483a6492ef38</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

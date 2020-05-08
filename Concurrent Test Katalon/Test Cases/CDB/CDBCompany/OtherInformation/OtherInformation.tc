@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OtherInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e4ae963-f917-46a5-b232-19438d33c520</testCaseGuid>
+   <variable>
+      <defaultValue>'L'</defaultValue>
+      <description></description>
+      <id>cb620d25-f12b-4e8b-8676-6268d41d6e5c</id>
+      <masked>false</masked>
+      <name>AML</name>
+   </variable>
+</TestCaseEntity>

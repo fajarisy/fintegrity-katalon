@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FRChecker2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1fed3e0-ebd0-49ed-820d-888c896f10a9</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>11c5810c-e5e4-449c-97e8-6051da90b58d</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>86f83067-4658-4b82-88de-c65dc3a744e8</id>
+      <masked>false</masked>
+      <name>CA</name>
+   </variable>
+</TestCaseEntity>

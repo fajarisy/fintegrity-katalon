@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RateType</name>
+   <tag></tag>
+   <elementGuidId>0fc70f68-e6fa-46aa-987d-ad26b5ab3fcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:paymentSchemePnl&quot;]/fieldset[2]/div[1]/label[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:paymentSchemePnl&quot;]/fieldset[2]/div[1]/label[3]</value>
+   </webElementXpaths>
+</WebElementEntity>

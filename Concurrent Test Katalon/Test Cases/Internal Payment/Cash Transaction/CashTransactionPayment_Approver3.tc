@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CashTransactionPayment_Approver3</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action
+WebUI.delay(GlobalVariable.wait_medium_time)</comment>
+   <testCaseGuid>e43557f1-c2ae-4c50-9bbe-915e710e15fe</testCaseGuid>
+   <variable>
+      <defaultValue>'CTRAN-201909-0054'</defaultValue>
+      <description></description>
+      <id>a5e17629-00a8-46e4-b79b-34201ead1b2d</id>
+      <masked>false</masked>
+      <name>CashTransNo</name>
+   </variable>
+</TestCaseEntity>

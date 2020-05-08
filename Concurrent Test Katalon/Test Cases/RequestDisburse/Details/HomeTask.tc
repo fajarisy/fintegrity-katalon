@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f6edfaa-37c8-4cc4-8e17-a569fac91bbe</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>d3136010-07b3-4905-af56-a3333a097dce</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

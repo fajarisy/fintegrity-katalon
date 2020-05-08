@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReqMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2e793be-d15a-4c14-a681-0e98bc0678aa</testCaseGuid>
+   <variable>
+      <defaultValue>'LINA'</defaultValue>
+      <description></description>
+      <id>83953ef1-47cd-4e67-8834-c944e15cd492</id>
+      <masked>false</masked>
+      <name>ReqMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78ad9920-daf1-4ba5-adc1-7f167340a395</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

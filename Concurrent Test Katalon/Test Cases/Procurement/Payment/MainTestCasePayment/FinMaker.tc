@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a1ebfb9-239f-4744-bf52-3b48d5035d7d</testCaseGuid>
+   <variable>
+      <defaultValue>'FITRIA'</defaultValue>
+      <description></description>
+      <id>f53d5d29-6f9e-4cc4-94fc-1f163034ffb5</id>
+      <masked>false</masked>
+      <name>FinMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f707b973-e78c-4306-a5a6-38cce2b55c54</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

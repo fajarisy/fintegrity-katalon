@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BankStatement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9948d42a-723e-426c-927f-a1edeb65034c</testCaseGuid>
+   <variable>
+      <defaultValue>'Default'</defaultValue>
+      <description></description>
+      <id>5411b782-cd66-4567-9ed0-5e16c42c5bbd</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

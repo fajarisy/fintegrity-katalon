@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_CustomerBA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>a446a366-de2c-4c2d-9950-c9e50de83fef</testSuiteGuid>
+   <testCaseLink>
+      <guid>ca25038a-966b-4ac6-b8a4-55d5975ba994</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ce88f233-046d-4ddd-b90e-e4a1814506ba</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CDB/CDB/CIFPersonal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ce88f233-046d-4ddd-b90e-e4a1814506ba</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>96475920-cc02-499a-b81f-3ec279b30e1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>false</value>
+         <variableId>409b7e90-7b18-4dfd-9d2e-773142d98801</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>297e73e3-4495-421a-834c-2558eee1b3a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CDB/HomeTaskCDB/TaskPanelCdbPersonal</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>78042f91-8301-4da1-a8c8-362dea98f965</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CDB/CDB/CIFPersonal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>78042f91-8301-4da1-a8c8-362dea98f965</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>d9c476cd-ea9d-4071-a28c-105477e61ecb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5e756b5a-9c9c-4528-9d16-4444508aa6ed</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6ab5638c-ef49-4123-9341-f11626f317a2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CDB/FloatingButton/ButtonSendNext</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b09d51fd-22f1-440d-aa04-77114bec5e8f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginLogout/Logout</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>SCRIPT_VARIABLE</type>
+         <value>false</value>
+         <variableId>7a298dc3-bfc4-4d4b-bd48-7e82fcd6b7fd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

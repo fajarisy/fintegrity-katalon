@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompanyInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f00421cf-bb6e-477f-b659-9452819418b1</testCaseGuid>
+   <variable>
+      <defaultValue>'PT000'</defaultValue>
+      <description></description>
+      <id>d6b7aefa-4516-42ac-ae82-0f9540b213cb</id>
+      <masked>false</masked>
+      <name>CompanyType</name>
+   </variable>
+   <variable>
+      <defaultValue>'267365678947657'</defaultValue>
+      <description></description>
+      <id>ed5e6181-e52c-4903-a6f8-988cb7786dd0</id>
+      <masked>false</masked>
+      <name>NPWPNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'1968'</defaultValue>
+      <description></description>
+      <id>92dd5649-78bd-41d8-9342-d54f940705ca</id>
+      <masked>false</masked>
+      <name>FoundedYear</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT. CEMANA'</defaultValue>
+      <description></description>
+      <id>140cc92e-35cd-4a95-92c7-23916d202dba</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FAApprovalForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0d4078b-7ca3-4a53-8886-faca691d7e0f</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 008'</defaultValue>
+      <description></description>
+      <id>257209b5-da9c-4641-8d27-3ba60d680b43</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'CHAIRUL'</defaultValue>
+      <description></description>
+      <id>32707488-8ce4-4d31-90fb-c904a4ecd8e7</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+</TestCaseEntity>

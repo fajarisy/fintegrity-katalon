@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Disbursement01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>f38f5118-1ea0-4610-a1d4-98b5afb7ba49</testSuiteGuid>
+   <testCaseLink>
+      <guid>6b0f2103-4915-46fe-96dc-2d9fcca8a9ea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Disbursement/MainTestCase/DisbursementAllV2</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>f83006bb-f1ff-4418-9bcb-dd4458845973</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Disbursement/ConcurrentNew01</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>f83006bb-f1ff-4418-9bcb-dd4458845973</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>6a478c95-305e-4fab-ba1c-089e9e0d22b0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f83006bb-f1ff-4418-9bcb-dd4458845973</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>0f5291df-d6eb-4480-a0e0-2a7b83b5e2b7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f83006bb-f1ff-4418-9bcb-dd4458845973</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
+         <variableId>76758a56-6a6a-482e-a273-ca0f39931b43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f83006bb-f1ff-4418-9bcb-dd4458845973</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINMaker</value>
+         <variableId>a23e10f9-ffbc-4376-bf19-9a3f067b425d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f83006bb-f1ff-4418-9bcb-dd4458845973</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINChecker</value>
+         <variableId>8af5f026-7a16-4b2b-b44d-3beef5300b9c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f83006bb-f1ff-4418-9bcb-dd4458845973</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINDir</value>
+         <variableId>5504478d-32ef-4aea-a86f-04b77b7f9ddb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

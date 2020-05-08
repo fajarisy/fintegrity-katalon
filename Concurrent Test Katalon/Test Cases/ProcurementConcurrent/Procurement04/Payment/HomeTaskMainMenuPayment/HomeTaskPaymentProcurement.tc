@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskPaymentProcurement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84c0b4da-e65a-4fb3-98b1-075b7dffd498</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>604e97e7-31ba-48b3-8ed0-5f01d26348d4</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

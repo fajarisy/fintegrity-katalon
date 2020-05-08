@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PurchaseOrderAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a99cd6d-9a5a-4c14-85e7-61bbfd193217</testCaseGuid>
+   <variable>
+      <defaultValue>'NATALIA'</defaultValue>
+      <description></description>
+      <id>257dbc25-d88a-40b8-93ac-2745d9e1c9ca</id>
+      <masked>false</masked>
+      <name>GaMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31fdbdde-f957-4ebb-bc7e-5311b3c20895</id>
+      <masked>false</masked>
+      <name>PRno</name>
+   </variable>
+</TestCaseEntity>

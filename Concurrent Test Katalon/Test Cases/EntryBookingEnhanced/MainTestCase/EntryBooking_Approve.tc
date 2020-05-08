@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBooking_Approve</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a7d5f78-728e-4b95-8e99-d32a69218fcd</testCaseGuid>
+   <variable>
+      <defaultValue>'BUDI'</defaultValue>
+      <description></description>
+      <id>fd548074-a5b6-489e-b966-83c99709f1b4</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>7b805509-b467-405b-acd6-03d580aea2ab</id>
+      <masked>false</masked>
+      <name>CMO</name>
+   </variable>
+</TestCaseEntity>

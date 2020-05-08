@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskBenchmark</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6fa0ea-971c-4789-a864-47d24e9cdc27</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a549182-a2ea-4bd6-b898-58733448e566</id>
+      <masked>false</masked>
+      <name>NoPR</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5338cf81-df29-478b-832e-93021bd3d1f9</id>
+      <masked>false</masked>
+      <name>ItemName</name>
+   </variable>
+</TestCaseEntity>

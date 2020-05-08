@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PaymentCashTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf4b029b-9c6d-48f6-bbdf-3c2d222e12a9</testCaseGuid>
+   <variable>
+      <defaultValue>'http://192.168.0.100:8080/Fintegrity'</defaultValue>
+      <description></description>
+      <id>96b6f889-5307-488a-9354-3c61e1ad8d99</id>
+      <masked>false</masked>
+      <name>IpAdress</name>
+   </variable>
+   <variable>
+      <defaultValue>'120815/CV19/005493'</defaultValue>
+      <description></description>
+      <id>8c9cc3f3-b0f1-43de-a149-eb7c6a0a56dd</id>
+      <masked>false</masked>
+      <name>FaciliyNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'120815'</defaultValue>
+      <description></description>
+      <id>2c704f60-17a4-43ac-bee1-8f1c39131b2f</id>
+      <masked>false</masked>
+      <name>CustomerId</name>
+   </variable>
+   <variable>
+      <defaultValue>'BUHORI'</defaultValue>
+      <description></description>
+      <id>3377dbd5-2626-41d0-8916-77bfec27c636</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'9651000'</defaultValue>
+      <description></description>
+      <id>7e0e2dc5-6d11-4ea9-994e-19f75adbf11d</id>
+      <masked>false</masked>
+      <name>amountPayment</name>
+   </variable>
+</TestCaseEntity>

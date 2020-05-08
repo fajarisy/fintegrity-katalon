@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddBusinessLicence</name>
+   <tag></tag>
+   <elementGuidId>1f4226ab-714f-4e06-b13d-26c3f4794665</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div/div[1]/span/span/fieldset/span/div/fieldset[1]/div[4]/a/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/form/div[2]/div/div/div[1]/span/span/fieldset/span/div/fieldset[1]/div[4]/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>RequestDisburse</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>a829ebda-4804-4155-9646-39a02cd01f5b</testSuiteGuid>
+   <testCaseLink>
+      <guid>ce34d8b9-797f-4897-b778-702712e70bac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RequestDisburse/MainTestCase/RequestDisburseAll</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>eb6886d7-7506-477a-bdab-4795a24f312f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RequestDisburse/RequestDisburseInput</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>eb6886d7-7506-477a-bdab-4795a24f312f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>19bae5fa-8dab-4fec-96a3-82e7ac591313</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb6886d7-7506-477a-bdab-4795a24f312f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>c0e1d2e0-6d5b-4b7e-a42c-c193a6af141b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb6886d7-7506-477a-bdab-4795a24f312f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
+         <variableId>4a28f238-7ca7-4cfc-9677-fb34a556fc4c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb6886d7-7506-477a-bdab-4795a24f312f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINMaker</value>
+         <variableId>1a70f987-0532-4e32-a69e-2753cfcb1010</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb6886d7-7506-477a-bdab-4795a24f312f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINChecker</value>
+         <variableId>89f9f867-243a-42fa-be20-a0af2a95ed37</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb6886d7-7506-477a-bdab-4795a24f312f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINDIR</value>
+         <variableId>a9ac9890-882e-4688-a8e9-d32c9a19cf77</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBooking_Approve</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c8d685d-1a37-4ca2-ade9-7dd53bf3bfb5</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 010'</defaultValue>
+      <description></description>
+      <id>a89207ab-93e4-417a-915e-9cf1341fe12c</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

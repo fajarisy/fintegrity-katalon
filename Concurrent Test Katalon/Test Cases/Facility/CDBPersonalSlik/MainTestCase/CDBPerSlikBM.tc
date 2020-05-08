@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDBPerSlikBM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>147bf495-84c9-4e82-9890-87d35d0cdf98</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>df744515-1817-4319-ae5a-3df62f5d49c0</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34e8c490-2485-422a-b6ce-8d6063357cc1</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDBPerSlikAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62e82bd4-3445-4796-bf43-e28f778254a3</testCaseGuid>
+   <variable>
+      <defaultValue>'DIYAS'</defaultValue>
+      <description></description>
+      <id>0b822e4f-bd9d-4537-a2a8-33692cb21058</id>
+      <masked>false</masked>
+      <name>BA</name>
+   </variable>
+   <variable>
+      <defaultValue>'YOMMIE'</defaultValue>
+      <description></description>
+      <id>5746d376-0f6e-46be-87bf-03d8775ef14b</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+   <variable>
+      <defaultValue>'CONCURRENT_FAJAR01'</defaultValue>
+      <description></description>
+      <id>652f98bd-e8b6-4a1c-bfa1-467e4afbfbe9</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

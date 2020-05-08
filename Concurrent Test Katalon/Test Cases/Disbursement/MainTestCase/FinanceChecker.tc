@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinanceChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>429315c7-3a69-4137-94d4-9a5e54895267</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>1798bf83-e8b0-4dd0-8acf-f3481ff1f282</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'YUNILIA'</defaultValue>
+      <description></description>
+      <id>3ad5ac09-a4cd-4e2f-9185-7eee75c2a3d3</id>
+      <masked>false</masked>
+      <name>FINChecker</name>
+   </variable>
+</TestCaseEntity>

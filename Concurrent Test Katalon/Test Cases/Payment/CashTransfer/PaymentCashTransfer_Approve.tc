@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PaymentCashTransfer_Approve</name>
+   <tag></tag>
+   <comment>Find a matching text in a table and performing action
+WebUI.delay(GlobalVariable.wait_medium_time)
+Wait for minimize panel task entry booking
+WebUI.delay(GlobalVariable.wait_short_time)</comment>
+   <testCaseGuid>54e78c24-a711-4198-94f5-4e39a4f5ffbc</testCaseGuid>
+   <variable>
+      <defaultValue>'BUHORI'</defaultValue>
+      <description></description>
+      <id>dbd8de2c-aef4-4d97-8441-314f4c650896</id>
+      <masked>false</masked>
+      <name>LesseeName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FacilityInsurance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fc14173-8267-4905-b731-2f631d62d254</testCaseGuid>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>2898cb1e-e5a4-45e1-a96b-f11e14dbec32</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

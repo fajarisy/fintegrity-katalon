@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchCDB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb63227d-1d89-4737-9d96-674352cef6d8</testCaseGuid>
+   <variable>
+      <defaultValue>'149893/CV20/000653\r\n'</defaultValue>
+      <description></description>
+      <id>fc94b734-55f1-495c-ad2a-27295a959e8f</id>
+      <masked>false</masked>
+      <name>IdFacility</name>
+   </variable>
+</TestCaseEntity>

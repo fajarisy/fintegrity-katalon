@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDisburseBM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6883bc1c-3481-4146-a412-d7f41d1e5a1b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e9e3d76-53f8-47d6-9a4d-34b78a07f92d</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

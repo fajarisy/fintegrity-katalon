@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VAPayment9_Maker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8845b43-2145-419e-afbb-745078a91033</testCaseGuid>
+   <variable>
+      <defaultValue>' D:\\\\JEANE\\\\LOCAL\\\\VA Upload\\\\VA UPLOAD 9 digit Test 1.xls'</defaultValue>
+      <description></description>
+      <id>ca7662e9-e5c7-4c21-b1ca-1182c5e30402</id>
+      <masked>false</masked>
+      <name>directoryVA</name>
+   </variable>
+   <variable>
+      <defaultValue>'101070;PJ7-00000-0000-0000-0000-0000'</defaultValue>
+      <description></description>
+      <id>38d7b31f-935a-43f2-b880-48cc4b258c0b</id>
+      <masked>false</masked>
+      <name>ReceivingBank</name>
+   </variable>
+</TestCaseEntity>

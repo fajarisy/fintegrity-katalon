@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FinanceDir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55c69a86-4009-4b18-b9c5-d5118a83ce3d</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>96c22158-3a4f-4fc5-bcc9-d31159735095</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'HIROSE'</defaultValue>
+      <description></description>
+      <id>59d48be1-103b-4865-b6dd-10ead424e181</id>
+      <masked>false</masked>
+      <name>FINDir</name>
+   </variable>
+</TestCaseEntity>

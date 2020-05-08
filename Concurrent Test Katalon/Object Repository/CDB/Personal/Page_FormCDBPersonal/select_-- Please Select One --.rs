@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Please Select One --</name>
+   <tag></tag>
+   <elementGuidId>b099ec8a-1915-4422-a854-610c27c61069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;frmMain:linkBusiness&quot;)[count(. | //select[@id = 'frmMain:linkBusiness' and @name = 'frmMain:linkBusiness' and @ref_element = 'Object Repository/Customer/Personal/Page_FormCDBPersonal/iframe_popupFrame_2']) = count(//select[@id = 'frmMain:linkBusiness' and @name = 'frmMain:linkBusiness' and @ref_element = 'Object Repository/Customer/Personal/Page_FormCDBPersonal/iframe_popupFrame_2'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:linkBusiness</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:linkBusiness</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Please Select One --CropsPlantationAnimal HusbandryFisheryForestryAgricultureOthers Agriculture, Labor and Agricultural InputsCoal MiningCrude Petrol &amp; Natural GasMetal &amp; Mineral MiningLand / Stone QuarryingOthers MiningCement ManufacturingCeramics, Glass, Porcelain ManufacturingMetal &amp; Allied Products ManufacturingChemicals ManufacturingPlastic &amp; Packaging ManufacturingWood Industries ManufacturingPulp &amp; Paper ManufacturingAnimal Feed ManufacturingMachinery &amp; Heavy Equipment ManufacturingAutomotive &amp; Components ManufacturingTextile &amp; Garments ManufacturingFootwear ManufacturingCable ManufacturingElectronics ManufacturingTobacco ManufacturingPharmacheuticals ManufacturingCosmetics &amp; Households ManufacturingHouseware ManufacturingFood and Beverages ManufacturingOthers ManufacturingEnergyUtilitiesOthers Electricity, Gas and WaterProperty &amp; Real EstateBuilding ConstructionsTollroad, Airport, Harbour ConstructionNon-Building ConstructionInfrastructureOthers ConstructionFood &amp; BeveragesWholesale (Durable &amp; Non-Durable Goods)Tourism, Restaurant, &amp; HotelOthers Trade, Restaurants and HotelsTransportation [Including tollroad, airport, and harbour services]TelecommunicationWarehousingTollroad, Airport, &amp; Harbour ServicesOthers Transportation, Storage and CommunicationNotaryArchitectAuditorLawyerOthers Services BusinessGovernment InstitutionNGOPoliceMilitaryInternational NGODoctorHospitalEducationTax Office, Judge, ProsecutorOthers Social Services / CommunityBankInsuranceHolding CompanyCleaning &amp; MaintenanceComputer &amp; ServicesFinancial Institution / Multifinance / LeasingSecuritiesAdvertising, Printing, &amp; MediaInvestment Fund / Mutual FundRetail TradeMiscellaneousGeneral DoctorSpecialised DoctorIndependent AppraisalConsultantAdjusterSurveyorDentistAccountantPsychologistCreative DesignARTIST</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:linkBusiness&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Customer/Personal/Page_FormCDBPersonal/iframe_popupFrame_2</value>
+   </webElementProperties>
+</WebElementEntity>

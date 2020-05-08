@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EntryBooking_Maker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f95b5b1d-d6c3-4e15-a486-8dfd5dbeade8</testCaseGuid>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>7849f200-026f-453a-97d4-be61ec96ff77</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Katalon 10'</defaultValue>
+      <description></description>
+      <id>ca1bf3da-7afd-467a-998c-ff266fb76072</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'0872371973'</defaultValue>
+      <description></description>
+      <id>9c911cab-7e67-4ec8-95ae-025c495b7df0</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta'</defaultValue>
+      <description></description>
+      <id>5d0dcd4b-2ef9-4a8c-80cd-aaafb83ba7d5</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>'HONDA BANDUNG CENTER'</defaultValue>
+      <description></description>
+      <id>2ce6e199-b54b-45b6-a75c-387005933e00</id>
+      <masked>false</masked>
+      <name>SupplierName</name>
+   </variable>
+   <variable>
+      <defaultValue>'CONSL'</defaultValue>
+      <description></description>
+      <id>267e589d-2899-42f9-9e7b-4ec402a4f82d</id>
+      <masked>false</masked>
+      <name>FacilityType</name>
+   </variable>
+   <variable>
+      <defaultValue>'DEBBY'</defaultValue>
+      <description></description>
+      <id>38b38811-2981-4947-bcc0-394c93141b66</id>
+      <masked>false</masked>
+      <name>CMO</name>
+   </variable>
+</TestCaseEntity>

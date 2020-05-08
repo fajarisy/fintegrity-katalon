@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDisburseMainMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be654729-f470-4209-8590-c00e7d87a0a5</testCaseGuid>
+   <variable>
+      <defaultValue>'Automated Test 004'</defaultValue>
+      <description></description>
+      <id>a913d2ab-1d26-4a18-bb2e-3899fbecab49</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

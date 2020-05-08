@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>last_page_table</name>
+   <tag></tag>
+   <elementGuidId>8aff226f-c5b4-4013-a369-dce553ee89ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[@onclick = concat('Event.fire(this, ' , &quot;'&quot; , 'rich:datascroller:onscroll' , &quot;'&quot; , ', {' , &quot;'&quot; , 'page' , &quot;'&quot; , ': ' , &quot;'&quot; , 'last' , &quot;'&quot; , '});') and (text() = '»»' or . = '»»')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div/div[1]/div/div[2]/span/table/tfoot/tr/td/div/table/tbody/tr/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> rich-datascr-button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Event.fire(this, 'rich:datascroller:onscroll', {'page': 'last'});</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>»»</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:dtEBTask:j_id2557_table&quot;)/tbody[1]/tr[1]/td[@class=&quot;rich-datascr-button&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

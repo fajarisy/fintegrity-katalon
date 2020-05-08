@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AssetManufacturer</name>
+   <tag></tag>
+   <elementGuidId>0eb07b86-5048-48ea-af8e-2af62e9fe55b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:idManufacturer&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'frmMain:idManufacturer' and @name = 'frmMain:idManufacturer' and (text() = '	ACURA
+	AIDA
+	AJN
+	ALFA ROMEO
+	AMANDA
+	ASTON MARTIN
+	AUDI
+	BENTLEY
+	BISHAMON
+	BMW
+	BUICK
+	CADILLAC
+	CARENS
+	CASSETTE
+	CELETTE
+	CHERRY
+	CHERY
+	CHEVROLET
+	CHINFONG
+	CHRYSLER
+	CITROEN
+	DAIHATSU
+	DAIKIN
+	DAIMLER
+	DODGE
+	ETNA
+	ETNA
+	FANTUZZI
+	FERRARI
+	FORD
+	FOTON
+	FUSHENG
+	GEELY
+	GUANG LI
+	HESHBON
+	HINO
+	HONDA
+	HUMMER
+	HYUNDAI
+	INFINITI
+	ISUZU
+	JAGUAR
+	JASINDO
+	JEEP
+	JESINDO
+	KIA
+	KOMATSU
+	KOMATSU
+	LAMBORGHINI
+	LAND ROVER
+	LEXUS
+	MASERATI
+	MAZDA
+	MEIJI
+	MERCEDES BENZ
+	MERCEDEZ
+	MESIN
+	MIKROTIK
+	MINI
+	MITSUBISHI
+	MOLNAR
+	MORRIS
+	NASTOA
+	NISSAN
+	OPEL
+	OTHERS
+	PANASONIC
+	PEUGEOT
+	PORSCHE
+	PROTON
+	QUESTER
+	RANGE ROVER
+	ROLLS ROYCE
+	SANY
+	SHACMAN
+	SMART
+	SUBARU
+	SUZUKI
+	TAILIFT
+	TOYOTA
+	UD TRUCK
+	VOLKSWAGEN
+	VOLVO
+	WASINO
+	WRANGLER
+' or . = '	ACURA
+	AIDA
+	AJN
+	ALFA ROMEO
+	AMANDA
+	ASTON MARTIN
+	AUDI
+	BENTLEY
+	BISHAMON
+	BMW
+	BUICK
+	CADILLAC
+	CARENS
+	CASSETTE
+	CELETTE
+	CHERRY
+	CHERY
+	CHEVROLET
+	CHINFONG
+	CHRYSLER
+	CITROEN
+	DAIHATSU
+	DAIKIN
+	DAIMLER
+	DODGE
+	ETNA
+	ETNA
+	FANTUZZI
+	FERRARI
+	FORD
+	FOTON
+	FUSHENG
+	GEELY
+	GUANG LI
+	HESHBON
+	HINO
+	HONDA
+	HUMMER
+	HYUNDAI
+	INFINITI
+	ISUZU
+	JAGUAR
+	JASINDO
+	JEEP
+	JESINDO
+	KIA
+	KOMATSU
+	KOMATSU
+	LAMBORGHINI
+	LAND ROVER
+	LEXUS
+	MASERATI
+	MAZDA
+	MEIJI
+	MERCEDES BENZ
+	MERCEDEZ
+	MESIN
+	MIKROTIK
+	MINI
+	MITSUBISHI
+	MOLNAR
+	MORRIS
+	NASTOA
+	NISSAN
+	OPEL
+	OTHERS
+	PANASONIC
+	PEUGEOT
+	PORSCHE
+	PROTON
+	QUESTER
+	RANGE ROVER
+	ROLLS ROYCE
+	SANY
+	SHACMAN
+	SMART
+	SUBARU
+	SUZUKI
+	TAILIFT
+	TOYOTA
+	UD TRUCK
+	VOLKSWAGEN
+	VOLVO
+	WASINO
+	WRANGLER
+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:idManufacturer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmMain:idManufacturer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>A4J.AJAX.Submit('frmMain',event,{'control':this,'oncomplete':function(request,event,data){populateModelFunction()},'similarityGroupingId':'frmMain:j_id67','parameters':{'ajaxSingle':'frmMain:idManufacturer','frmMain:j_id67':'frmMain:j_id67'} ,'eventsQueue':'populateUnitModel'} )</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	ACURA
+	AIDA
+	AJN
+	ALFA ROMEO
+	AMANDA
+	ASTON MARTIN
+	AUDI
+	BENTLEY
+	BISHAMON
+	BMW
+	BUICK
+	CADILLAC
+	CARENS
+	CASSETTE
+	CELETTE
+	CHERRY
+	CHERY
+	CHEVROLET
+	CHINFONG
+	CHRYSLER
+	CITROEN
+	DAIHATSU
+	DAIKIN
+	DAIMLER
+	DODGE
+	ETNA
+	ETNA
+	FANTUZZI
+	FERRARI
+	FORD
+	FOTON
+	FUSHENG
+	GEELY
+	GUANG LI
+	HESHBON
+	HINO
+	HONDA
+	HUMMER
+	HYUNDAI
+	INFINITI
+	ISUZU
+	JAGUAR
+	JASINDO
+	JEEP
+	JESINDO
+	KIA
+	KOMATSU
+	KOMATSU
+	LAMBORGHINI
+	LAND ROVER
+	LEXUS
+	MASERATI
+	MAZDA
+	MEIJI
+	MERCEDES BENZ
+	MERCEDEZ
+	MESIN
+	MIKROTIK
+	MINI
+	MITSUBISHI
+	MOLNAR
+	MORRIS
+	NASTOA
+	NISSAN
+	OPEL
+	OTHERS
+	PANASONIC
+	PEUGEOT
+	PORSCHE
+	PROTON
+	QUESTER
+	RANGE ROVER
+	ROLLS ROYCE
+	SANY
+	SHACMAN
+	SMART
+	SUBARU
+	SUZUKI
+	TAILIFT
+	TOYOTA
+	UD TRUCK
+	VOLKSWAGEN
+	VOLVO
+	WASINO
+	WRANGLER
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmMain:idManufacturer&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

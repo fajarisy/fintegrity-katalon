@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchFacilityDisburse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f108de2a-3480-4ef7-8cdf-30b63fb07f8f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af5ae754-a004-4ca2-a037-b9737acf53d9</id>
+      <masked>false</masked>
+      <name>IdFacility</name>
+   </variable>
+</TestCaseEntity>

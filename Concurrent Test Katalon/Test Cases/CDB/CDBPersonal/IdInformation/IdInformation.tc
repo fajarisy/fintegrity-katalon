@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IdInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b67cbe2-e300-4b87-ac2c-dd02913daff1</testCaseGuid>
+   <variable>
+      <defaultValue>'302900012201324'</defaultValue>
+      <description></description>
+      <id>acef4306-161f-4694-88f4-7b5cb767ed95</id>
+      <masked>false</masked>
+      <name>IdCard</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>75bb2e27-ba56-481e-8417-3affa6ff37fa</id>
+      <masked>false</masked>
+      <name>isLifetime</name>
+   </variable>
+</TestCaseEntity>

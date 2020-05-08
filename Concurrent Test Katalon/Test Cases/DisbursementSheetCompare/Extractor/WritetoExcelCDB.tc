@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WritetoExcelCDB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2ae0930-d1c6-4202-bb3e-7f585af20986</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d13650c9-89d8-4238-bbf8-6a9cbc9eb62f</id>
+      <masked>false</masked>
+      <name>BusinessType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af862f6d-89d6-4350-a46b-3c0aef0e4737</id>
+      <masked>false</masked>
+      <name>IdAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a096677f-027f-4428-b8c0-9febf9a80c2f</id>
+      <masked>false</masked>
+      <name>MailAddressFull</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>961ce7bc-3e26-4a9c-87a2-eef277a99d4a</id>
+      <masked>false</masked>
+      <name>PhoneIdAddress</name>
+   </variable>
+</TestCaseEntity>
