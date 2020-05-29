@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FillingTerminationSimulationForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15c8943b-e564-400f-b02d-39f1b1f0d6be</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2346a592-b660-4b97-81b7-f0f76e09d246</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

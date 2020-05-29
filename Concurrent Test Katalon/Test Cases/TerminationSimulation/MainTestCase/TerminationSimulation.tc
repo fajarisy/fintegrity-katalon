@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TerminationSimulation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb34a113-3485-4754-bec1-2bf563b69037</testCaseGuid>
+   <variable>
+      <defaultValue>'IRNA'</defaultValue>
+      <description></description>
+      <id>0adc5e10-2f4b-4d10-bd52-8cd2557cd76a</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'abcde Data Wa'</defaultValue>
+      <description></description>
+      <id>1fa927aa-5d8a-49bc-b375-084a34157ad1</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>
