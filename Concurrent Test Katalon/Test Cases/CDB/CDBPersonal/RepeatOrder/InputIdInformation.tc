@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InputIdInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a13e554-6177-4739-8a18-f556be237146</testCaseGuid>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>1e7447f1-fa86-4721-8975-5f8ea507518a</id>
+      <masked>false</masked>
+      <name>IdCard</name>
+   </variable>
+</TestCaseEntity>

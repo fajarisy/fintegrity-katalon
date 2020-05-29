@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDB_RO_APPROVER</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a284dc6e-7edc-4ccb-9b65-cb5df8457491</testCaseGuid>
+   <variable>
+      <defaultValue>'YANUAR'</defaultValue>
+      <description></description>
+      <id>11b01cd2-e033-4790-b15f-97fac97637da</id>
+      <masked>false</masked>
+      <name>BM</name>
+   </variable>
+   <variable>
+      <defaultValue>'ADY'</defaultValue>
+      <description></description>
+      <id>cde2a4ce-30b6-4c88-92c2-7c1d69a07d3d</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>'P'</defaultValue>
+      <description></description>
+      <id>9122d57f-5263-4d1d-a256-6a3725bf8de6</id>
+      <masked>false</masked>
+      <name>CustomerType</name>
+   </variable>
+</TestCaseEntity>

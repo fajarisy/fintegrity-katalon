@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InputBasicInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ea95ca6-7146-4fa6-8c17-4b739d4caa6b</testCaseGuid>
+   <variable>
+      <defaultValue>'JAKARTA'</defaultValue>
+      <description></description>
+      <id>df457aff-dadc-465f-8774-dbe7d47134c1</id>
+      <masked>false</masked>
+      <name>PlaceOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'28/01/1994'</defaultValue>
+      <description></description>
+      <id>255618de-6de1-4446-ae57-1a95cb290194</id>
+      <masked>false</masked>
+      <name>DateOfBirth</name>
+   </variable>
+</TestCaseEntity>
