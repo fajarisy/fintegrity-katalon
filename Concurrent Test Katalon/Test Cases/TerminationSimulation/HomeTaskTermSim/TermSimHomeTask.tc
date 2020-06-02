@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TermSimHomeTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cdfa807-372b-4100-b265-990751a20028</testCaseGuid>
+   <variable>
+      <defaultValue>'abcde Data WA'</defaultValue>
+      <description></description>
+      <id>0f6b23b8-3f31-4bf6-8329-b290a4edea99</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

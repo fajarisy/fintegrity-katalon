@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TerminationSimulationApprove</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>276bfb9d-db6e-4591-9b44-04a7d802eb63</testCaseGuid>
+   <variable>
+      <defaultValue>'MELVA'</defaultValue>
+      <description></description>
+      <id>c4cb200e-7145-43f4-903d-b7c6dab5192f</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'abcde Data WA'</defaultValue>
+      <description></description>
+      <id>1b5358b7-7ae5-4be3-938d-2e92f567679b</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LastPageButton</name>
+   <tag></tag>
+   <elementGuidId>0058f2f8-c168-4568-be9d-b2cd45e34e4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:TblTerminationSimulation:j_id5437_table&quot;]/tbody/tr/td[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:TblTerminationSimulation:j_id5437_table&quot;]/tbody/tr/td[9]</value>
+   </webElementXpaths>
+</WebElementEntity>
