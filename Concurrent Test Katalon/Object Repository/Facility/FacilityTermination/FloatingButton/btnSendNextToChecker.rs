@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSendNextToChecker</name>
+   <tag></tag>
+   <elementGuidId>6bcb97d4-2512-4a42-aeea-2dc3a8b8d871</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;frmMain:sendTermination&quot;][count(. | //*[@id = 'frmMain:sendTermination']) = count(//*[@id = 'frmMain:sendTermination'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:sendTermination&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:sendTermination</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomeTaskTermination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38d10bc8-fa3d-4936-9e23-19d10eaf42b2</testCaseGuid>
+   <variable>
+      <defaultValue>'080385/CV17/007789'</defaultValue>
+      <description></description>
+      <id>5f11cff2-665e-4ed3-a785-23a9795c6fdf</id>
+      <masked>false</masked>
+      <name>facilityNo</name>
+   </variable>
+</TestCaseEntity>

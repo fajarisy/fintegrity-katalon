@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FTMaker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66bf2a68-b953-4899-aedd-53524b59f0ee</testCaseGuid>
+   <variable>
+      <defaultValue>'IRNA'</defaultValue>
+      <description></description>
+      <id>7c11e9fe-92aa-4ab8-ae54-56da5ce98f29</id>
+      <masked>false</masked>
+      <name>maker</name>
+   </variable>
+   <variable>
+      <defaultValue>'080385/CV17/007789'</defaultValue>
+      <description></description>
+      <id>a328c4e3-fce3-40bd-be73-bc4e69e2da89</id>
+      <masked>false</masked>
+      <name>facilityNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jun 3, 2020'</defaultValue>
+      <description></description>
+      <id>7cf1c2e6-bcb5-4f26-a65a-4c0495555481</id>
+      <masked>false</masked>
+      <name>effDate</name>
+   </variable>
+</TestCaseEntity>

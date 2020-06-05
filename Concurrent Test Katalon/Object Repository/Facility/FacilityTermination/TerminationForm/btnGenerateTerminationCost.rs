@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnGenerateTerminationCost</name>
+   <tag></tag>
+   <elementGuidId>d0c62a2c-c096-4ca7-8fbd-514accd9f808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;frmMain:btnAL_btnGenerateTerminationCostExec&quot;][count(. | //*[@id = 'frmMain:btnAL_btnGenerateTerminationCostExec']) = count(//*[@id = 'frmMain:btnAL_btnGenerateTerminationCostExec'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:btnAL_btnGenerateTerminationCostExec&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:btnAL_btnGenerateTerminationCostExec</value>
+   </webElementProperties>
+</WebElementEntity>

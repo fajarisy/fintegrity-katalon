@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSave</name>
+   <tag></tag>
+   <elementGuidId>5236d851-4acc-42f9-aac3-c9d390c8e0d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;frmMain:btnAL_saveExec&quot;][count(. | //*[@id = 'frmMain:btnAL_saveExec']) = count(//*[@id = 'frmMain:btnAL_saveExec'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:btnAL_saveExec&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:btnAL_saveExec</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:btnAL_saveExec&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

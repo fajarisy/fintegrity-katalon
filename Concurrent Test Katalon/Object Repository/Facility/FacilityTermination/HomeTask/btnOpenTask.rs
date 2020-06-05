@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnOpenTask</name>
+   <tag></tag>
+   <elementGuidId>7818c2b1-bd2a-41c5-805e-10869bcc7f1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;frmMain:terminationSearchResult_switch_off&quot;][count(. | //*[@id = 'frmMain:terminationSearchResult_switch_off']) = count(//*[@id = 'frmMain:terminationSearchResult_switch_off'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:terminationSearchResult_switch_off&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:terminationSearchResult_switch_off</value>
+   </webElementProperties>
+</WebElementEntity>

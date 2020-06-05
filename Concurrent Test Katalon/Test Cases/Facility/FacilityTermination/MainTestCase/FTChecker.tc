@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FTChecker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a340357-bf27-44f3-86a4-e5f393105346</testCaseGuid>
+   <variable>
+      <defaultValue>'MELVA'</defaultValue>
+      <description></description>
+      <id>7f74679f-17c6-4d3d-8f59-93ac875fa9b5</id>
+      <masked>false</masked>
+      <name>checker</name>
+   </variable>
+   <variable>
+      <defaultValue>'080385/CV17/007789'</defaultValue>
+      <description></description>
+      <id>11dc2eb8-39cb-494c-a76f-de88a0a40fb4</id>
+      <masked>false</masked>
+      <name>facilityNo</name>
+   </variable>
+</TestCaseEntity>

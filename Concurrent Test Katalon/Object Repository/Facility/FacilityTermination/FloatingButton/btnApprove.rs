@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnApprove</name>
+   <tag></tag>
+   <elementGuidId>164eb6d0-0d9c-441a-97fa-5482badbe9aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;frmMain:btnA_wfApproveExec&quot;][count(. | //*[@id = 'frmMain:btnA_wfApproveExec']) = count(//*[@id = 'frmMain:btnA_wfApproveExec'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;frmMain:btnA_wfApproveExec&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmMain:btnA_wfApproveExec</value>
+   </webElementProperties>
+</WebElementEntity>
