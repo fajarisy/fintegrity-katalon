@@ -5,4 +5,32 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>90686849-5cb3-4eee-b1d2-6a4635abb014</testCaseGuid>
+   <variable>
+      <defaultValue>'IRNA'</defaultValue>
+      <description></description>
+      <id>d03a1ca9-d5af-4533-98c9-528e15f728cc</id>
+      <masked>false</masked>
+      <name>Maker</name>
+   </variable>
+   <variable>
+      <defaultValue>'MELVA'</defaultValue>
+      <description></description>
+      <id>eb93dbeb-d974-44b2-b231-9154e59c0741</id>
+      <masked>false</masked>
+      <name>Checker</name>
+   </variable>
+   <variable>
+      <defaultValue>'080385/CV17/007789'</defaultValue>
+      <description></description>
+      <id>874a2e45-0381-4871-912d-15af10b57a6d</id>
+      <masked>false</masked>
+      <name>FacilityNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jun 3, 2020'</defaultValue>
+      <description></description>
+      <id>397d2371-3b4b-41db-ad8e-2c0d2af7882e</id>
+      <masked>false</masked>
+      <name>EffDate</name>
+   </variable>
 </TestCaseEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Facility Termination</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>562f200c-9304-434c-af32-75db4f4a8730</testSuiteGuid>
+   <testCaseLink>
+      <guid>fbb072eb-cb4e-4f97-ac3d-448788ab27cc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Facility/FacilityTermination/MainTestCase/FTFullScenario</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>53a36985-2118-4438-8e37-459dada34eb8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/FacilityTermination/FacilityTermination</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>53a36985-2118-4438-8e37-459dada34eb8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Maker</value>
+         <variableId>d03a1ca9-d5af-4533-98c9-528e15f728cc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53a36985-2118-4438-8e37-459dada34eb8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Checker</value>
+         <variableId>eb93dbeb-d974-44b2-b231-9154e59c0741</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53a36985-2118-4438-8e37-459dada34eb8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FacilityNo</value>
+         <variableId>874a2e45-0381-4871-912d-15af10b57a6d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53a36985-2118-4438-8e37-459dada34eb8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EffDate</value>
+         <variableId>397d2371-3b4b-41db-ad8e-2c0d2af7882e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

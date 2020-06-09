@@ -15,3 +15,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.callTestCase(findTestCase('Facility/FacilityTermination/MainTestCase/FTMaker'), [('maker') : Maker, ('facilityNo') : FacilityNo
+        , ('effDate') : EffDate], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Facility/FacilityTermination/MainTestCase/FTChecker'), [('checker') : Checker, ('facilityNo') : FacilityNo], 
+    FailureHandling.STOP_ON_FAILURE)
+

@@ -24,6 +24,8 @@ import org.openqa.selenium.Keys as Keys
 import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
 CustomKeywords.'customKeywords.LoginHelper.DoLogin'(GlobalVariable.Fintegrity, BM, GlobalVariable.FinPass)
 
@@ -40,4 +42,6 @@ WebUI.acceptAlert()
 WebUI.delay(GlobalVariable.wait_long_time)
 
 WebUI.callTestCase(findTestCase('LoginLogout/Logout'), [('isCloseBrowser') : true], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(GlobalVariable.wait_medium_time)
 
