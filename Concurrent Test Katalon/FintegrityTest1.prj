@@ -6,7 +6,7 @@
    <UUID>7d58b051-9c17-4aed-972d-cfea241bde94</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\FUJITSU\Document\Automatization Test\Katalon Test Script\Concurrent Test Katalon\FintegrityTest1.prj</projectFileLocation>
+   <projectFileLocation>D:\MBF\Katalon\GIT\fintegrity-katalon\Concurrent Test Katalon\FintegrityTest1.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

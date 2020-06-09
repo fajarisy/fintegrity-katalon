@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://192.168.0.100:18080/Fintegrity'</initValue>
+      <initValue>'http://127.0.0.1:18080/Fintegrity'</initValue>
       <name>Fintegrity</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
