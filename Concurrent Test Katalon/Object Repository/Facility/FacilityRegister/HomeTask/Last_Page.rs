@@ -11,10 +11,10 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = '»»' or . = '»»') and @onclick = concat('Event.fire(this, ' , &quot;'&quot; , 'rich:datascroller:onscroll' , &quot;'&quot; , ', {' , &quot;'&quot; , 'page' , &quot;'&quot; , ': ' , &quot;'&quot; , 'last' , &quot;'&quot; , '});') and @class = ' rich-datascr-button']</value>
+         <value>//td[(text() = '»»' or . = '»»') and @class = 'rich-datascr-button']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -24,7 +24,7 @@
       <value>»»</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
@@ -35,7 +35,14 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> rich-datascr-button</value>
+      <value>rich-datascr-button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

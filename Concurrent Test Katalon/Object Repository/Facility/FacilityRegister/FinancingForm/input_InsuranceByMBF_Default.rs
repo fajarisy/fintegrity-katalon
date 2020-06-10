@@ -11,10 +11,10 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//input[@name = 'frmMain:j_id662' and @type = 'radio']</value>
+         <value>//input[@value = 'BYLSR' and @type = 'radio']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -24,7 +24,7 @@
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -38,7 +38,7 @@
       <value>frmMain:j_id662:2</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
