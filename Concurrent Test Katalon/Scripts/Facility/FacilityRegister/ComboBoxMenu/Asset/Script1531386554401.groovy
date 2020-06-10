@@ -20,7 +20,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
 WebUI.waitForElementPresent(findTestObject('Facility/FacilityRegister/FinancingForm/AddAsset_ObjectLease'), GlobalVariable.wait_long_time)
+
 WebUI.waitForElementClickable(findTestObject('Facility/FacilityRegister/FinancingForm/AddAsset_ObjectLease'), GlobalVariable.wait_long_time)
+
 'Click Add Asset'
 CustomKeywords.'customKeywords.CustomKeywordJS.clickUsingJS'(findTestObject('Object Repository/Facility/FacilityRegister/FinancingForm/AddAsset_ObjectLease'), 
     GlobalVariable.wait_js_long_time)
@@ -68,13 +70,14 @@ WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/ComboBoxMenu
     false)
 
 'Search Supplier'
-WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_AssetFilter_supplier'), 'HONDA Jakarta Center')
+WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_AssetFilter_supplier'), 'abcde SUDIRMAN')
 
 'Delay'
 WebUI.delay(GlobalVariable.wait_medium_time)
 
 'Select search item'
-WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/FinancingForm/select_SupplierAsset'), '240', false)
+WebUI.selectOptionByLabel(findTestObject('Facility/FacilityRegister/FinancingForm/select_SupplierAsset'), 'abcde SUDIRMAN', 
+    false)
 
 'Delay'
 WebUI.delay(GlobalVariable.wait_medium_time)
@@ -87,8 +90,9 @@ WebUI.acceptAlert()
 WebUI.delay(GlobalVariable.wait_long_time)
 
 'Click Back Button'
-WebUI.waitForElementClickable(findTestObject('Object Repository/Facility/FloatingButton/BackButton'), 
-	GlobalVariable.wait_short_time, FailureHandling.OPTIONAL)
+WebUI.waitForElementClickable(findTestObject('Object Repository/Facility/FloatingButton/BackButton'), GlobalVariable.wait_short_time, 
+    FailureHandling.OPTIONAL)
+
 CustomKeywords.'customKeywords.CustomKeywordJS.clickUsingJS'(findTestObject('Object Repository/Facility/FloatingButton/BackButton'), 
     GlobalVariable.wait_js_long_time)
 
