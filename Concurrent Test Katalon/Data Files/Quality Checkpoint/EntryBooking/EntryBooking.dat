@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>d1abfb42-b1e2-4b3a-9335-a1307d02e559</dataFileGUID>
-   <dataSourceUrl>D:\MBF_Documents\fintegrity-katalon2\Test Data\MasterInput.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\fintegrity-katalon\Test Data\MasterInput.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

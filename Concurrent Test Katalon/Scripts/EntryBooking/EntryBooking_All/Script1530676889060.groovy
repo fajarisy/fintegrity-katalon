@@ -19,13 +19,18 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
-/*'Create Entry Booking'
+'Login Checker'
+WebUI.callTestCase(findTestCase('LoginLogout/Login_Enhanced'), [('UserName') : Maker], FailureHandling.STOP_ON_FAILURE)
+
+'Create Entry Booking'
 WebUI.callTestCase(findTestCase('EntryBooking/EntryBooking_Maker'), [('CustomerType') : CustomerType, ('CustomerName') : CustomerName
         , ('PhoneNumber') : PhoneNumber, ('Address') : Address, ('SupplierName') : SupplierName, ('isOpenBrowser') : isOpenBrowser
         , ('FacilityType') : FacilityType, ('UserMaker') : Maker], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('LoginLogout/Logout'), [('isOpenBrowser') : true], FailureHandling.STOP_ON_FAILURE)*/
+WebUI.callTestCase(findTestCase('LoginLogout/Logout'), [('isOpenBrowser') : true], FailureHandling.STOP_ON_FAILURE)
 
 'Login Checker'
 WebUI.callTestCase(findTestCase('LoginLogout/Login_Enhanced'), [('UserName') : Checker], FailureHandling.STOP_ON_FAILURE)

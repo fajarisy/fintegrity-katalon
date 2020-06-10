@@ -24,7 +24,7 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 
 WebUI.waitForPageLoad(GlobalVariable.wait_long_time)
 
-WebUI.delay(GlobalVariable.wait_short_time)
+WebUI.delay(GlobalVariable.wait_medium_time)
 
 WebUI.waitForElementVisible(findTestObject('LoginLogout/Page_ Logout/a_Logout'), GlobalVariable.wait_js_long_time)
 
