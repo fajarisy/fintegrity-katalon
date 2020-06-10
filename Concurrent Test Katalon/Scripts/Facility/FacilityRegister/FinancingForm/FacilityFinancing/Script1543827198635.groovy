@@ -85,7 +85,7 @@ WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/FinancingFor
 WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_LeasePeriod'), '24')
 
 'Opinion Originator'
-WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/textarea_OpinionOfOriginator'), 'Test Opinion Katalon')
+//WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/textarea_OpinionOfOriginator'), 'Test Opinion Katalon')
 
 'Wait for Loading Page'
 WebUI.delay(GlobalVariable.wait_medium_time)
