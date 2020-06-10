@@ -13,7 +13,7 @@
    <testCaseLink>
       <guid>a5383b42-a980-4b7f-a3cd-a9232784b667</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/EntryBooking/EntryBooking_All</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -88,7 +88,7 @@
    <testCaseLink>
       <guid>c6e59719-4892-4295-95b2-bf04d626aa9f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/CDB/MainTestCase/CompletePersonal_001</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -196,7 +196,7 @@
    <testCaseLink>
       <guid>bb314f15-947b-43cf-a42b-e17e54720ac8</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Facility/FacilityApproval/MainTestCase/ApprovalBM</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -214,7 +214,7 @@
    <testCaseLink>
       <guid>0a113cb7-44cb-41c0-be0a-c813f4acf5b7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/UpdateAdditionalInfo/MainTestCase/UpInfoAll</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -262,7 +262,7 @@
    <testCaseLink>
       <guid>5da3b0dc-fa46-4bb7-b0ff-8452c7ae0adf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/RequestDisburse/MainTestCase/RequestDisburseAll</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -304,7 +304,7 @@
    <testCaseLink>
       <guid>8a264a04-a7d3-42a5-8026-e9fbb2314078</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Disbursement/MainTestCase/DisbursementAllV2</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
