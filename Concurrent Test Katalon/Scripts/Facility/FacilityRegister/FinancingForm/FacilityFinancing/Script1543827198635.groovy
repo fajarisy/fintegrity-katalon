@@ -52,13 +52,13 @@ WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_frmD
 WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/FinancingForm/select_SubsidyDPBy'), 'NONE', false)
 
 'Subsidy Amount'
-WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_SubsidyAmount'), '')
+//WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_SubsidyAmount'), '')
 
 'Deposit Refund'
-WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_SecDepositRefundI'), '')
+//WebUI.setText(findTestObject('Facility/FacilityRegister/FinancingForm/input_SecDepositRefundI'), '')
 
 'Payment Method'
-WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/FinancingForm/select_PaymentMethod'), 'VACCT', false)
+WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/FinancingForm/select_PaymentMethod'), 'TRANS', false)
 
 'Asset Type'
 WebUI.selectOptionByValue(findTestObject('Facility/FacilityRegister/FinancingForm/select_AssetType'), '2', false)
