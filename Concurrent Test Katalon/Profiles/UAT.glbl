@@ -9,4 +9,9 @@
       <initValue>'http://192.168.0.100:4040/Fintegrity'</initValue>
       <name>Fintegrity</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mbf137??'</initValue>
+      <name>FinPass</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
