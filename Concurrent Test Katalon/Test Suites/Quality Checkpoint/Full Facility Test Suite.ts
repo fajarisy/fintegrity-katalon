@@ -139,7 +139,7 @@
    <testCaseLink>
       <guid>79cf95f2-d25f-49de-a136-acbd0cda8512</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Facility/FacilityRegister/MainTestCase/FacilityRegisterImproved</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -216,88 +216,106 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
       <testCaseId>Test Cases/UpdateAdditionalInfo/MainTestCase/UpInfoAll</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>57c326e9-ee62-468b-8f21-3944d62d0a83</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/UpdateAdditionalInfo/UpdateAdditionalInfo</testDataId>
+      </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
          <variableId>b549ac18-f8fe-4066-aae1-676c4d35ecdc</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
          <variableId>c9c307c1-4b81-453c-bc3e-8795ccc69ddd</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
          <variableId>a7e59b39-9223-45d6-a649-03c243e92eb4</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ChassisNo</value>
          <variableId>0e8fd28b-65f6-4429-9dbe-862db0c7f2b3</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EngineNo</value>
          <variableId>0c0d09d4-76c6-4864-8911-b8af3f754340</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>VirtualAcct</value>
          <variableId>d1fde28f-8005-4a53-8b9b-2d115c45edf0</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
          <variableId>9f606ad2-735a-4053-b64c-d6b77dd35873</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>5da3b0dc-fa46-4bb7-b0ff-8452c7ae0adf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/RequestDisburse/MainTestCase/RequestDisburseAll</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/FacilityDisbursement/FacilityDisbursement</testDataId>
+      </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
          <variableId>19bae5fa-8dab-4fec-96a3-82e7ac591313</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
          <variableId>c0e1d2e0-6d5b-4b7e-a42c-c193a6af141b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
          <variableId>4a28f238-7ca7-4cfc-9677-fb34a556fc4c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINMaker</value>
          <variableId>1a70f987-0532-4e32-a69e-2753cfcb1010</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINChecker</value>
          <variableId>89f9f867-243a-42fa-be20-a0af2a95ed37</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINDir</value>
          <variableId>a9ac9890-882e-4688-a8e9-d32c9a19cf77</variableId>
       </variableLink>
    </testCaseLink>
@@ -306,40 +324,49 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
       <testCaseId>Test Cases/Disbursement/MainTestCase/DisbursementAllV2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/FacilityDisbursement/FacilityDisbursement</testDataId>
+      </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
          <variableId>6a478c95-305e-4fab-ba1c-089e9e0d22b0</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
          <variableId>0f5291df-d6eb-4480-a0e0-2a7b83b5e2b7</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
          <variableId>76758a56-6a6a-482e-a273-ca0f39931b43</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINMaker</value>
          <variableId>a23e10f9-ffbc-4376-bf19-9a3f067b425d</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINChecker</value>
          <variableId>8af5f026-7a16-4b2b-b44d-3beef5300b9c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINDir</value>
          <variableId>5504478d-32ef-4aea-a86f-04b77b7f9ddb</variableId>
       </variableLink>
    </testCaseLink>
