@@ -139,7 +139,7 @@
    <testCaseLink>
       <guid>79cf95f2-d25f-49de-a136-acbd0cda8512</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Facility/FacilityRegister/MainTestCase/FacilityRegisterImproved</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -271,7 +271,7 @@
    <testCaseLink>
       <guid>5da3b0dc-fa46-4bb7-b0ff-8452c7ae0adf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/RequestDisburse/MainTestCase/RequestDisburseAll</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
