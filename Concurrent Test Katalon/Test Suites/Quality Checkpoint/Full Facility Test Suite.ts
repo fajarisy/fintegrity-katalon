@@ -139,7 +139,7 @@
    <testCaseLink>
       <guid>79cf95f2-d25f-49de-a136-acbd0cda8512</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Facility/FacilityRegister/MainTestCase/FacilityRegisterImproved</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -212,60 +212,36 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>0a113cb7-44cb-41c0-be0a-c813f4acf5b7</guid>
+      <guid>6fad785b-885f-4672-9b93-429b8a7b7399</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/UpdateAdditionalInfo/MainTestCase/UpInfoAll</testCaseId>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Facility/CDBPersonalSlik/MainTestCase/CDBPerSlikAll</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>57c326e9-ee62-468b-8f21-3944d62d0a83</id>
+         <id>e32e1220-aaaa-435b-b178-e6e39a08832f</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Quality Checkpoint/UpdateAdditionalInfo/UpdateAdditionalInfo</testDataId>
+         <testDataId>Data Files/Quality Checkpoint/Facility/Facility Personal</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>CustomerName</value>
-         <variableId>b549ac18-f8fe-4066-aae1-676c4d35ecdc</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>BA</value>
-         <variableId>c9c307c1-4b81-453c-bc3e-8795ccc69ddd</variableId>
+         <variableId>0b822e4f-bd9d-4537-a2a8-33692cb21058</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>BM</value>
-         <variableId>a7e59b39-9223-45d6-a649-03c243e92eb4</variableId>
+         <variableId>5746d376-0f6e-46be-87bf-03d8775ef14b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>ChassisNo</value>
-         <variableId>0e8fd28b-65f6-4429-9dbe-862db0c7f2b3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>EngineNo</value>
-         <variableId>0c0d09d4-76c6-4864-8911-b8af3f754340</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>VirtualAcct</value>
-         <variableId>d1fde28f-8005-4a53-8b9b-2d115c45edf0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Description</value>
-         <variableId>9f606ad2-735a-4053-b64c-d6b77dd35873</variableId>
+         <value>CustomerName</value>
+         <variableId>652f98bd-e8b6-4a1c-bfa1-467e4afbfbe9</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
@@ -368,6 +344,63 @@
          <type>DATA_COLUMN</type>
          <value>FINDir</value>
          <variableId>5504478d-32ef-4aea-a86f-04b77b7f9ddb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0a113cb7-44cb-41c0-be0a-c813f4acf5b7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/UpdateAdditionalInfo/MainTestCase/UpInfoAll</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>57c326e9-ee62-468b-8f21-3944d62d0a83</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/UpdateAdditionalInfo/UpdateAdditionalInfo</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>b549ac18-f8fe-4066-aae1-676c4d35ecdc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>c9c307c1-4b81-453c-bc3e-8795ccc69ddd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
+         <variableId>a7e59b39-9223-45d6-a649-03c243e92eb4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ChassisNo</value>
+         <variableId>0e8fd28b-65f6-4429-9dbe-862db0c7f2b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EngineNo</value>
+         <variableId>0c0d09d4-76c6-4864-8911-b8af3f754340</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>VirtualAcct</value>
+         <variableId>d1fde28f-8005-4a53-8b9b-2d115c45edf0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57c326e9-ee62-468b-8f21-3944d62d0a83</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Description</value>
+         <variableId>9f606ad2-735a-4053-b64c-d6b77dd35873</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
