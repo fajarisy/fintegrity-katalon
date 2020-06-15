@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TerminationSimulationAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2d4bca7-c5c8-4a75-9650-3a797815ac2b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9431f251-c553-4787-868b-3a5b9f0ffeed</id>
+      <masked>false</masked>
+      <name>TermSimMaker</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05f0f581-c6ee-4679-adc3-35c090a9c5d7</id>
+      <masked>false</masked>
+      <name>CustomerName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f49b699-80d3-40dd-9f81-994864fa7b72</id>
+      <masked>false</masked>
+      <name>TermSimChecker</name>
+   </variable>
+</TestCaseEntity>

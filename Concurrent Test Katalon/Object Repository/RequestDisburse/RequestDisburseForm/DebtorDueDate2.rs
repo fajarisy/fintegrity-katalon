@@ -6,11 +6,11 @@
    <elementGuidId>b2a13918-b0d4-4f58-a768-b0623c49d742</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;frmMain:cldDebtorDueDateDayCell31&quot;]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmMain:cldDebtorDueDateDayCell19&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

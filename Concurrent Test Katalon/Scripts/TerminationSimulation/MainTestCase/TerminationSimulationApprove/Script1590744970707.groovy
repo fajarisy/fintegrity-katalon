@@ -15,7 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('LoginLogout/Login_Enhanced'), [('UserName') : UserName], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('LoginLogout/Login_Enhanced'), [('UserName') : TermSimChecker], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('TerminationSimulation/HomeTaskTermSim/TermSimHomeTask'), [('CustomerName') : CustomerName], 
     FailureHandling.STOP_ON_FAILURE)

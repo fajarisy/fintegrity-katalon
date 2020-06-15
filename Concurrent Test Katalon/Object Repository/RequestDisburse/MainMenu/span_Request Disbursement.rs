@@ -4,6 +4,12 @@
    <name>span_Request Disbursement</name>
    <tag></tag>
    <elementGuidId>d820930a-c538-4412-81f5-3122023cd762</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Request Disbursement' or . = 'Request Disbursement')]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -21,7 +27,7 @@
       <value>rich-menu-item-label rich-menu-item-label-selected</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>

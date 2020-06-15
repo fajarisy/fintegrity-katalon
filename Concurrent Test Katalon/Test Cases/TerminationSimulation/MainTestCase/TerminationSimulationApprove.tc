@@ -10,7 +10,7 @@
       <description></description>
       <id>c4cb200e-7145-43f4-903d-b7c6dab5192f</id>
       <masked>false</masked>
-      <name>UserName</name>
+      <name>TermSimChecker</name>
    </variable>
    <variable>
       <defaultValue>'abcde Data WA'</defaultValue>

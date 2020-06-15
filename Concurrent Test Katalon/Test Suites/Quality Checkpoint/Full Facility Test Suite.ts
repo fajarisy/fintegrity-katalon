@@ -212,141 +212,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>6fad785b-885f-4672-9b93-429b8a7b7399</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Facility/CDBPersonalSlik/MainTestCase/CDBPerSlikAll</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>e32e1220-aaaa-435b-b178-e6e39a08832f</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Quality Checkpoint/Facility/Facility Personal</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>BA</value>
-         <variableId>0b822e4f-bd9d-4537-a2a8-33692cb21058</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>BM</value>
-         <variableId>5746d376-0f6e-46be-87bf-03d8775ef14b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>CustomerName</value>
-         <variableId>652f98bd-e8b6-4a1c-bfa1-467e4afbfbe9</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5da3b0dc-fa46-4bb7-b0ff-8452c7ae0adf</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/RequestDisburse/MainTestCase/RequestDisburseAll</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Quality Checkpoint/FacilityDisbursement/FacilityDisbursement</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>CustomerName</value>
-         <variableId>19bae5fa-8dab-4fec-96a3-82e7ac591313</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>BA</value>
-         <variableId>c0e1d2e0-6d5b-4b7e-a42c-c193a6af141b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>BM</value>
-         <variableId>4a28f238-7ca7-4cfc-9677-fb34a556fc4c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>FINMaker</value>
-         <variableId>1a70f987-0532-4e32-a69e-2753cfcb1010</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>FINChecker</value>
-         <variableId>89f9f867-243a-42fa-be20-a0af2a95ed37</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>741a41cd-7d66-4c55-a71b-ecfec4e15cf3</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>FINDir</value>
-         <variableId>a9ac9890-882e-4688-a8e9-d32c9a19cf77</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8a264a04-a7d3-42a5-8026-e9fbb2314078</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Disbursement/MainTestCase/DisbursementAllV2</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/Quality Checkpoint/FacilityDisbursement/FacilityDisbursement</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>CustomerName</value>
-         <variableId>6a478c95-305e-4fab-ba1c-089e9e0d22b0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>BA</value>
-         <variableId>0f5291df-d6eb-4480-a0e0-2a7b83b5e2b7</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>BM</value>
-         <variableId>76758a56-6a6a-482e-a273-ca0f39931b43</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>FINMaker</value>
-         <variableId>a23e10f9-ffbc-4376-bf19-9a3f067b425d</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>FINChecker</value>
-         <variableId>8af5f026-7a16-4b2b-b44d-3beef5300b9c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>FINDir</value>
-         <variableId>5504478d-32ef-4aea-a86f-04b77b7f9ddb</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>0a113cb7-44cb-41c0-be0a-c813f4acf5b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
@@ -401,6 +266,90 @@
          <type>DATA_COLUMN</type>
          <value>Description</value>
          <variableId>9f606ad2-735a-4053-b64c-d6b77dd35873</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6fad785b-885f-4672-9b93-429b8a7b7399</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Facility/CDBPersonalSlik/MainTestCase/CDBPerSlikAll</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e32e1220-aaaa-435b-b178-e6e39a08832f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/Facility/Facility Personal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>0b822e4f-bd9d-4537-a2a8-33692cb21058</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
+         <variableId>5746d376-0f6e-46be-87bf-03d8775ef14b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e32e1220-aaaa-435b-b178-e6e39a08832f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>652f98bd-e8b6-4a1c-bfa1-467e4afbfbe9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8a264a04-a7d3-42a5-8026-e9fbb2314078</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Disbursement/MainTestCase/DisbursementAllV2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Quality Checkpoint/FacilityDisbursement/FacilityDisbursement</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CustomerName</value>
+         <variableId>6a478c95-305e-4fab-ba1c-089e9e0d22b0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BA</value>
+         <variableId>0f5291df-d6eb-4480-a0e0-2a7b83b5e2b7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>BM</value>
+         <variableId>76758a56-6a6a-482e-a273-ca0f39931b43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINMaker</value>
+         <variableId>a23e10f9-ffbc-4376-bf19-9a3f067b425d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINChecker</value>
+         <variableId>8af5f026-7a16-4b2b-b44d-3beef5300b9c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0eacf4a6-6dbf-4019-9647-afe71ee0f7a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FINDir</value>
+         <variableId>5504478d-32ef-4aea-a86f-04b77b7f9ddb</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
